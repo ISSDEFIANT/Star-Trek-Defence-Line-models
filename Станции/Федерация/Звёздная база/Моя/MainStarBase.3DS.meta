@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: eb265ac308efa4bdca5612818697a0e0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ????(????0
+    100002: ????(????1
+    100004: ????(?????
+    100006: ????? ???0
+    100008: ????? ????
+    100010: Cylinder00
+    100012: Cylinder01
+    100014: Cylinder02
+    100016: Cylinder04
+    100018: Cylinder05
+    100020: Cylinder06
+    100022: Cylinder07
+    100024: Cylinder08
+    100026: Cylinder09
+    100028: Cylinder10
+    100030: Cylinder11
+    100032: Cylinder12
+    100034: Cylinder13
+    100036: Cylinder14
+    100038: Cylinder15
+    100040: Cylinder16
+    100042: Cylinder17
+    100044: Cylinder18
+    100046: Cylinder19
+    100048: Cylinder20
+    100050: Cylinder21
+    100052: Cylinder22
+    100054: Cylinder23
+    100056: Cylinder24
+    100058: Cylinder25
+    100060: Cylinder26
+    100062: Cylinder27
+    100064: Cylinder28
+    100066: Cylinder29
+    100068: Cylinder30
+    100070: Cylinder31
+    100072: Cylinder32
+    100074: Cylinder33
+    100076: Cylinder34
+    100078: //RootNode
+    100080: Sphere001
+    100082: Sphere002
+    100084: Sphere003
+    100086: Sphere004
+    100088: Sphere005
+    100090: Sphere006
+    400000: ????(????0
+    400002: ????(????1
+    400004: ????(?????
+    400006: ????? ???0
+    400008: ????? ????
+    400010: Cylinder00
+    400012: Cylinder01
+    400014: Cylinder02
+    400016: Cylinder04
+    400018: Cylinder05
+    400020: Cylinder06
+    400022: Cylinder07
+    400024: Cylinder08
+    400026: Cylinder09
+    400028: Cylinder10
+    400030: Cylinder11
+    400032: Cylinder12
+    400034: Cylinder13
+    400036: Cylinder14
+    400038: Cylinder15
+    400040: Cylinder16
+    400042: Cylinder17
+    400044: Cylinder18
+    400046: Cylinder19
+    400048: Cylinder20
+    400050: Cylinder21
+    400052: Cylinder22
+    400054: Cylinder23
+    400056: Cylinder24
+    400058: Cylinder25
+    400060: Cylinder26
+    400062: Cylinder27
+    400064: Cylinder28
+    400066: Cylinder29
+    400068: Cylinder30
+    400070: Cylinder31
+    400072: Cylinder32
+    400074: Cylinder33
+    400076: Cylinder34
+    400078: //RootNode
+    400080: Sphere001
+    400082: Sphere002
+    400084: Sphere003
+    400086: Sphere004
+    400088: Sphere005
+    400090: Sphere006
+    2100000: 01 - Default
+    2100002: 'Material #23'
+    2100004: 'Material #18'
+    2100006: 'Material #24'
+    2100008: 'Material #20'
+    2100010: 'Material #14'
+    2100012: 'Material #25'
+    2100014: 'Material #12'
+    2100016: 'Material #15'
+    2100018: 'Material #13'
+    2100020: 'Material #22'
+    2100022: 'Material #17'
+    2100024: 'Material #16'
+    2100026: 'Material #19'
+    2100028: 'Material #21'
+    2100030: 'Material #8'
+    2100032: 'Material #7'
+    2100034: 'Material #11'
+    2100036: 'Material #10'
+    2100038: 'Material #9'
+    2100040: 'Material #51'
+    2100042: 'Material #52'
+    2100044: 'Material #64'
+    2100046: 'Material #38'
+    2100048: 'Material #26'
+    2100050: 'Material #27'
+    2100052: 'Material #6'
+    2100054: 'Material #5'
+    2100056: 'Material #4'
+    2100058: 'Material #89'
+    2100060: 'Material #77'
+    2300000: ????(????0
+    2300002: ????(????1
+    2300004: ????(?????
+    2300006: ????? ???0
+    2300008: ????? ????
+    2300010: Cylinder00
+    2300012: Cylinder01
+    2300014: Cylinder02
+    2300016: Cylinder04
+    2300018: Cylinder05
+    2300020: Cylinder06
+    2300022: Cylinder07
+    2300024: Cylinder08
+    2300026: Cylinder09
+    2300028: Cylinder10
+    2300030: Cylinder11
+    2300032: Cylinder12
+    2300034: Cylinder13
+    2300036: Cylinder14
+    2300038: Cylinder15
+    2300040: Cylinder16
+    2300042: Cylinder17
+    2300044: Cylinder18
+    2300046: Cylinder19
+    2300048: Cylinder20
+    2300050: Cylinder21
+    2300052: Cylinder22
+    2300054: Cylinder23
+    2300056: Cylinder24
+    2300058: Cylinder25
+    2300060: Cylinder26
+    2300062: Cylinder27
+    2300064: Cylinder28
+    2300066: Cylinder29
+    2300068: Cylinder30
+    2300070: Cylinder31
+    2300072: Cylinder32
+    2300074: Cylinder33
+    2300076: Cylinder34
+    2300078: Sphere001
+    2300080: Sphere002
+    2300082: Sphere003
+    2300084: Sphere004
+    2300086: Sphere005
+    2300088: Sphere006
+    3300000: ????(????0
+    3300002: ????(????1
+    3300004: ????(?????
+    3300006: ????? ???0
+    3300008: ????? ????
+    3300010: Cylinder00
+    3300012: Cylinder01
+    3300014: Cylinder02
+    3300016: Cylinder04
+    3300018: Cylinder05
+    3300020: Cylinder06
+    3300022: Cylinder07
+    3300024: Cylinder08
+    3300026: Cylinder09
+    3300028: Cylinder10
+    3300030: Cylinder11
+    3300032: Cylinder12
+    3300034: Cylinder13
+    3300036: Cylinder14
+    3300038: Cylinder15
+    3300040: Cylinder16
+    3300042: Cylinder17
+    3300044: Cylinder18
+    3300046: Cylinder19
+    3300048: Cylinder20
+    3300050: Cylinder21
+    3300052: Cylinder22
+    3300054: Cylinder23
+    3300056: Cylinder24
+    3300058: Cylinder25
+    3300060: Cylinder26
+    3300062: Cylinder27
+    3300064: Cylinder28
+    3300066: Cylinder29
+    3300068: Cylinder30
+    3300070: Cylinder31
+    3300072: Cylinder32
+    3300074: Cylinder33
+    3300076: Cylinder34
+    3300078: Sphere001
+    3300080: Sphere002
+    3300082: Sphere003
+    3300084: Sphere004
+    3300086: Sphere005
+    3300088: Sphere006
+    4300000: ????? ????
+    4300002: ????(?????
+    4300004: Cylinder08
+    4300006: Cylinder09
+    4300008: Cylinder10
+    4300010: Cylinder11
+    4300012: Cylinder12
+    4300014: Cylinder13
+    4300016: Cylinder14
+    4300018: Cylinder15
+    4300020: Cylinder16
+    4300022: Cylinder17
+    4300024: Cylinder18
+    4300026: Cylinder19
+    4300028: Cylinder20
+    4300030: Sphere001
+    4300032: Sphere002
+    4300034: Sphere003
+    4300036: Sphere004
+    4300038: Sphere005
+    4300040: Cylinder21
+    4300042: Cylinder22
+    4300044: Cylinder23
+    4300046: Cylinder24
+    4300048: Cylinder25
+    4300050: Cylinder26
+    4300052: Cylinder27
+    4300054: Cylinder28
+    4300056: Cylinder29
+    4300058: Cylinder30
+    4300060: Cylinder31
+    4300062: Cylinder32
+    4300064: Cylinder33
+    4300066: Cylinder00
+    4300068: Cylinder01
+    4300070: Cylinder02
+    4300072: Cylinder04
+    4300074: Cylinder05
+    4300076: Cylinder06
+    4300078: Cylinder07
+    4300080: Cylinder34
+    4300082: Sphere006
+    4300084: ????? ???0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

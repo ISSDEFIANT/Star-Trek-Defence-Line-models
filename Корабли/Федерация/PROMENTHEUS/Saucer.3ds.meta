@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 1ff4042cf914745ec9ca21ee7cd5946a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder,1
+    100002: Cylinder,2
+    100004: Cylinder,3
+    100006: Cylinder,4
+    100008: Cylinder,5
+    100010: Cylinder,6
+    100012: Cylinder,7
+    100014: Cylinder,8
+    100016: Cylinder,9
+    100018: Cylinder10
+    100020: Cylinder11
+    100022: Cylinder12
+    100024: noname,1
+    100026: 'noname,1 #'
+    100028: noname,1 1
+    100030: noname,1 2
+    100032: noname,101
+    100034: noname,102
+    100036: noname,17
+    100038: noname,2
+    100040: 'noname,2 #'
+    100042: noname,21
+    100044: noname,234
+    100046: noname,3
+    100048: 'noname,3 #'
+    100050: noname,30
+    100052: noname,31
+    100054: noname,33
+    100056: noname,34
+    100058: noname,4
+    100060: 'noname,4 #'
+    100062: noname,77
+    100064: noname,78
+    100066: noname,79
+    100068: noname,9
+    100070: noname,93
+    100072: noname,95
+    100074: noname,951
+    100076: noname,96
+    100078: //RootNode
+    100080: 'Sphere #3'
+    400000: Cylinder,1
+    400002: Cylinder,2
+    400004: Cylinder,3
+    400006: Cylinder,4
+    400008: Cylinder,5
+    400010: Cylinder,6
+    400012: Cylinder,7
+    400014: Cylinder,8
+    400016: Cylinder,9
+    400018: Cylinder10
+    400020: Cylinder11
+    400022: Cylinder12
+    400024: noname,1
+    400026: 'noname,1 #'
+    400028: noname,1 1
+    400030: noname,1 2
+    400032: noname,101
+    400034: noname,102
+    400036: noname,17
+    400038: noname,2
+    400040: 'noname,2 #'
+    400042: noname,21
+    400044: noname,234
+    400046: noname,3
+    400048: 'noname,3 #'
+    400050: noname,30
+    400052: noname,31
+    400054: noname,33
+    400056: noname,34
+    400058: noname,4
+    400060: 'noname,4 #'
+    400062: noname,77
+    400064: noname,78
+    400066: noname,79
+    400068: noname,9
+    400070: noname,93
+    400072: noname,95
+    400074: noname,951
+    400076: noname,96
+    400078: //RootNode
+    400080: 'Sphere #3'
+    2100000: 'noname,3 #2'
+    2100002: noname,96
+    2100004: 'noname,1 #4'
+    2100006: 'noname,1 #5'
+    2100008: noname,102
+    2100010: 'noname,1 #6'
+    2100012: 'noname,1 #7'
+    2100014: 'noname,102 #2'
+    2100016: Cylinder,1
+    2100018: Cylinder,2
+    2100020: noname,1
+    2100022: noname,2
+    2100024: noname,3
+    2100026: noname,9
+    2100028: noname,78
+    2100030: noname,79
+    2100032: 'noname,2 #2'
+    2100034: 'noname,2 #3'
+    2100036: noname,93
+    2100038: 'noname,93 #2'
+    2100040: 'noname,95 #2'
+    2100042: 'noname,95 #3'
+    2100044: 'noname,95 #4'
+    2100046: 'noname,95 #5'
+    2100048: 'noname,95 #6'
+    2100050: 'noname,95 #7'
+    2100052: 'noname,1 #2'
+    2100054: 'noname,1 #3'
+    2100056: 'noname,4 #2'
+    2100058: 'Cylinder,5 #2'
+    2100060: noname,4
+    2100062: 'Sphere #3'
+    2100064: 'Cylinder,3 #2'
+    2100066: 'Cylinder,4 #2'
+    2100068: noname,31
+    2100070: noname,30
+    2100072: noname,21
+    2100074: 'noname,21 #2'
+    2100076: 'noname,21 #3'
+    2100078: 'noname,21 #4'
+    2100080: 'noname,21 #5'
+    2100082: 'noname,21 #6'
+    2100084: noname,34
+    2100086: noname,33
+    2100088: noname,95
+    2100090: Material 7
+    2100092: 'noname,29 #10'
+    2100094: 'noname,29 #11'
+    2100096: noname,77
+    2300000: Cylinder,1
+    2300002: Cylinder,2
+    2300004: Cylinder,3
+    2300006: Cylinder,4
+    2300008: Cylinder,5
+    2300010: Cylinder,6
+    2300012: Cylinder,7
+    2300014: Cylinder,8
+    2300016: Cylinder,9
+    2300018: Cylinder10
+    2300020: Cylinder11
+    2300022: Cylinder12
+    2300024: noname,1
+    2300026: 'noname,1 #'
+    2300028: noname,1 1
+    2300030: noname,1 2
+    2300032: noname,101
+    2300034: noname,102
+    2300036: noname,17
+    2300038: noname,2
+    2300040: 'noname,2 #'
+    2300042: noname,21
+    2300044: noname,234
+    2300046: noname,3
+    2300048: 'noname,3 #'
+    2300050: noname,30
+    2300052: noname,31
+    2300054: noname,33
+    2300056: noname,34
+    2300058: noname,4
+    2300060: 'noname,4 #'
+    2300062: noname,77
+    2300064: noname,78
+    2300066: noname,79
+    2300068: noname,9
+    2300070: noname,93
+    2300072: noname,95
+    2300074: noname,951
+    2300076: noname,96
+    2300078: 'Sphere #3'
+    3300000: Cylinder,1
+    3300002: Cylinder,2
+    3300004: Cylinder,3
+    3300006: Cylinder,4
+    3300008: Cylinder,5
+    3300010: Cylinder,6
+    3300012: Cylinder,7
+    3300014: Cylinder,8
+    3300016: Cylinder,9
+    3300018: Cylinder10
+    3300020: Cylinder11
+    3300022: Cylinder12
+    3300024: noname,1
+    3300026: 'noname,1 #'
+    3300028: noname,1 1
+    3300030: noname,1 2
+    3300032: noname,101
+    3300034: noname,102
+    3300036: noname,17
+    3300038: noname,2
+    3300040: 'noname,2 #'
+    3300042: noname,21
+    3300044: noname,234
+    3300046: noname,3
+    3300048: 'noname,3 #'
+    3300050: noname,30
+    3300052: noname,31
+    3300054: noname,33
+    3300056: noname,34
+    3300058: noname,4
+    3300060: 'noname,4 #'
+    3300062: noname,77
+    3300064: noname,78
+    3300066: noname,79
+    3300068: noname,9
+    3300070: noname,93
+    3300072: noname,95
+    3300074: noname,951
+    3300076: noname,96
+    3300078: 'Sphere #3'
+    4300000: 'noname,3 #'
+    4300002: noname,96
+    4300004: noname,1 1
+    4300006: noname,102
+    4300008: noname,1 2
+    4300010: noname,101
+    4300012: Cylinder,1
+    4300014: Cylinder,2
+    4300016: noname,1
+    4300018: noname,2
+    4300020: noname,3
+    4300022: noname,9
+    4300024: noname,78
+    4300026: noname,79
+    4300028: 'noname,2 #'
+    4300030: noname,93
+    4300032: noname,951
+    4300034: 'noname,1 #'
+    4300036: 'noname,4 #'
+    4300038: Cylinder12
+    4300040: noname,4
+    4300042: 'Sphere #3'
+    4300044: Cylinder10
+    4300046: Cylinder11
+    4300048: noname,31
+    4300050: noname,30
+    4300052: noname,21
+    4300054: noname,34
+    4300056: noname,33
+    4300058: noname,95
+    4300060: Cylinder,3
+    4300062: Cylinder,4
+    4300064: Cylinder,5
+    4300066: Cylinder,6
+    4300068: Cylinder,7
+    4300070: Cylinder,8
+    4300072: Cylinder,9
+    4300074: noname,17
+    4300076: noname,234
+    4300078: noname,77
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

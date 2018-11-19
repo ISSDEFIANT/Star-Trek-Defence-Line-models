@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: e884f081d26f24911b4512c4507b92dc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: WB Pilot 0
+    100002: WB Pilot E
+    100004: WB Pilots0
+    100006: WB Pilots1
+    100008: WB Pilots2
+    100010: WB Pilotsk
+    100012: WB Used
+    100014: WBCT
+    100016: WBCT Hors0
+    100018: WBCT Horse
+    100020: WBCTA
+    100022: WBCTA0
+    100024: WBCTA01
+    100026: WBCTA010
+    100028: WBCTA011
+    100030: WBCTA012
+    100032: WBCTA013
+    100034: WBCTA014
+    100036: WBCTA015
+    100038: WBCTA1
+    100040: WBCTA2
+    100042: WBCTA3
+    100044: WBCTA4
+    100046: WBCTA5
+    100048: WBCTB
+    100050: WBCTB0
+    100052: WBCTB01
+    100054: WBCTB010
+    100056: WBCTB011
+    100058: WBCTB1
+    100060: WBUsed A
+    100062: WBUsed B
+    100064: WBUsed C
+    100066: WBUsed E
+    100068: WBUsed F
+    100070: WBUsed G
+    100072: WBUsed G0
+    100074: WBUsed G1
+    100076: WBUsed G2
+    100078: WBUsed G3
+    100080: WBUsed In0
+    100082: WBUsed In1
+    100084: WBUsed In2
+    100086: WBUsed In3
+    100088: WBUsed In4
+    100090: WBUsed Int
+    100092: WBUsed W
+    100094: //RootNode
+    400000: WB Pilot 0
+    400002: WB Pilot E
+    400004: WB Pilots0
+    400006: WB Pilots1
+    400008: WB Pilots2
+    400010: WB Pilotsk
+    400012: WB Used
+    400014: WBCT
+    400016: WBCT Hors0
+    400018: WBCT Horse
+    400020: WBCTA
+    400022: WBCTA0
+    400024: WBCTA01
+    400026: WBCTA010
+    400028: WBCTA011
+    400030: WBCTA012
+    400032: WBCTA013
+    400034: WBCTA014
+    400036: WBCTA015
+    400038: WBCTA1
+    400040: WBCTA2
+    400042: WBCTA3
+    400044: WBCTA4
+    400046: WBCTA5
+    400048: WBCTB
+    400050: WBCTB0
+    400052: WBCTB01
+    400054: WBCTB010
+    400056: WBCTB011
+    400058: WBCTB1
+    400060: WBUsed A
+    400062: WBUsed B
+    400064: WBUsed C
+    400066: WBUsed E
+    400068: WBUsed F
+    400070: WBUsed G
+    400072: WBUsed G0
+    400074: WBUsed G1
+    400076: WBUsed G2
+    400078: WBUsed G3
+    400080: WBUsed In0
+    400082: WBUsed In1
+    400084: WBUsed In2
+    400086: WBUsed In3
+    400088: WBUsed In4
+    400090: WBUsed Int
+    400092: WBUsed W
+    400094: //RootNode
+    2100000: WBCT
+    2100002: WBUsed A
+    2100004: WBUsed B
+    2100006: WBUsed C
+    2100008: WBUsed E
+    2100010: WBUsed F
+    2100012: WBUsed G
+    2100014: WBUsed W
+    2100016: WBUsed Int
+    2100018: WB Pilot EyeL
+    2100020: WB Pilot EyeR
+    2100022: WB Pilotskin
+    2300000: WB Pilot 0
+    2300002: WB Pilot E
+    2300004: WB Pilots0
+    2300006: WB Pilots1
+    2300008: WB Pilots2
+    2300010: WB Pilotsk
+    2300012: WBCT Hors0
+    2300014: WBCT Horse
+    2300016: WBCTA
+    2300018: WBCTA0
+    2300020: WBCTA01
+    2300022: WBCTA010
+    2300024: WBCTA011
+    2300026: WBCTA012
+    2300028: WBCTA013
+    2300030: WBCTA014
+    2300032: WBCTA015
+    2300034: WBCTA1
+    2300036: WBCTA2
+    2300038: WBCTA3
+    2300040: WBCTA4
+    2300042: WBCTA5
+    2300044: WBCTB
+    2300046: WBCTB0
+    2300048: WBCTB01
+    2300050: WBCTB010
+    2300052: WBCTB011
+    2300054: WBCTB1
+    2300056: WBUsed A
+    2300058: WBUsed B
+    2300060: WBUsed C
+    2300062: WBUsed E
+    2300064: WBUsed F
+    2300066: WBUsed G
+    2300068: WBUsed G0
+    2300070: WBUsed G1
+    2300072: WBUsed G2
+    2300074: WBUsed G3
+    2300076: WBUsed In0
+    2300078: WBUsed In1
+    2300080: WBUsed In2
+    2300082: WBUsed In3
+    2300084: WBUsed In4
+    2300086: WBUsed Int
+    2300088: WBUsed W
+    3300000: WB Pilot 0
+    3300002: WB Pilot E
+    3300004: WB Pilots0
+    3300006: WB Pilots1
+    3300008: WB Pilots2
+    3300010: WB Pilotsk
+    3300012: WBCT Hors0
+    3300014: WBCT Horse
+    3300016: WBCTA
+    3300018: WBCTA0
+    3300020: WBCTA01
+    3300022: WBCTA010
+    3300024: WBCTA011
+    3300026: WBCTA012
+    3300028: WBCTA013
+    3300030: WBCTA014
+    3300032: WBCTA015
+    3300034: WBCTA1
+    3300036: WBCTA2
+    3300038: WBCTA3
+    3300040: WBCTA4
+    3300042: WBCTA5
+    3300044: WBCTB
+    3300046: WBCTB0
+    3300048: WBCTB01
+    3300050: WBCTB010
+    3300052: WBCTB011
+    3300054: WBCTB1
+    3300056: WBUsed A
+    3300058: WBUsed B
+    3300060: WBUsed C
+    3300062: WBUsed E
+    3300064: WBUsed F
+    3300066: WBUsed G
+    3300068: WBUsed G0
+    3300070: WBUsed G1
+    3300072: WBUsed G2
+    3300074: WBUsed G3
+    3300076: WBUsed In0
+    3300078: WBUsed In1
+    3300080: WBUsed In2
+    3300082: WBUsed In3
+    3300084: WBUsed In4
+    3300086: WBUsed Int
+    3300088: WBUsed W
+    4300000: WBCT Horse
+    4300002: WBCTA
+    4300004: WBCT Hors0
+    4300006: WBCTA0
+    4300008: WBCTA1
+    4300010: WBCTB
+    4300012: WBCTB0
+    4300014: WBCTA2
+    4300016: WBCTB1
+    4300018: WBCTA3
+    4300020: WBCTA4
+    4300022: WBCTA5
+    4300024: WBCTA01
+    4300026: WBCTA010
+    4300028: WBCTA011
+    4300030: WBCTB01
+    4300032: WBCTB010
+    4300034: WBCTA012
+    4300036: WBCTA013
+    4300038: WBCTA014
+    4300040: WBCTB011
+    4300042: WBCTA015
+    4300044: WBUsed A
+    4300046: WBUsed B
+    4300048: WBUsed C
+    4300050: WBUsed E
+    4300052: WBUsed F
+    4300054: WBUsed G
+    4300056: WBUsed W
+    4300058: WBUsed G0
+    4300060: WBUsed G1
+    4300062: WBUsed G2
+    4300064: WBUsed G3
+    4300066: WBUsed Int
+    4300068: WBUsed In0
+    4300070: WB Pilot E
+    4300072: WB Pilot 0
+    4300074: WBUsed In1
+    4300076: WB Pilotsk
+    4300078: WBUsed In2
+    4300080: WBUsed In3
+    4300082: WB Pilots0
+    4300084: WB Pilots1
+    4300086: WBUsed In4
+    4300088: WB Pilots2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
