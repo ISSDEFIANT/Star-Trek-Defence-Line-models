@@ -1,0 +1,755 @@
+fileFormatVersion: 2
+guid: 662e45aad811244b69621f0717c3821e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Deflector.
+    100002: Deflector0
+    100004: Large.Defl
+    100006: Main.Body
+    100008: Main.Deca0
+    100010: Main.Deca1
+    100012: Main.Decal
+    100014: Main.Escap
+    100016: Main.Hul10
+    100018: Main.Hul11
+    100020: Main.Hul12
+    100022: Main.Hul13
+    100024: Main.Hul14
+    100026: Main.Hull.
+    100028: Main.Hull0
+    100030: Main.Hull1
+    100032: Main.Hull2
+    100034: Main.Hull3
+    100036: Main.Hull4
+    100038: Main.Hull5
+    100040: Main.Hull6
+    100042: Main.Hull7
+    100044: Main.Hull8
+    100046: Main.Hull9
+    100048: Main.Red.D
+    100050: Nacel.Le10
+    100052: Nacel.Le11
+    100054: Nacel.Le12
+    100056: Nacel.Le13
+    100058: Nacel.Le14
+    100060: Nacel.Le15
+    100062: Nacel.Le16
+    100064: Nacel.Le17
+    100066: Nacel.Le18
+    100068: Nacel.Lef0
+    100070: Nacel.Lef1
+    100072: Nacel.Lef2
+    100074: Nacel.Lef3
+    100076: Nacel.Lef4
+    100078: Nacel.Lef5
+    100080: Nacel.Lef6
+    100082: Nacel.Lef7
+    100084: Nacel.Lef8
+    100086: Nacel.Lef9
+    100088: Nacel.Ri10
+    100090: Nacel.Ri11
+    100092: Nacel.Ri12
+    100094: Nacel.Ri13
+    100096: Nacel.Ri14
+    100098: Nacel.Ri15
+    100100: Nacel.Ri16
+    100102: Nacel.Ri17
+    100104: Nacel.Ri18
+    100106: Nacel.Rig0
+    100108: Nacel.Rig1
+    100110: Nacel.Rig2
+    100112: Nacel.Rig3
+    100114: Nacel.Rig4
+    100116: Nacel.Rig5
+    100118: Nacel.Rig6
+    100120: Nacel.Rig7
+    100122: Nacel.Rig8
+    100124: Nacel.Rig9
+    100126: Saucer.Ba0
+    100128: Saucer.Ba1
+    100130: Saucer.Ba2
+    100132: Saucer.Ba3
+    100134: Saucer.Ba4
+    100136: Saucer.Ba5
+    100138: Saucer.Ba6
+    100140: Saucer.Bas
+    100142: Saucer.Bo0
+    100144: Saucer.Bo1
+    100146: Saucer.Bo2
+    100148: Saucer.Bo3
+    100150: Saucer.Bo4
+    100152: Saucer.Bo5
+    100154: Saucer.Bo6
+    100156: Saucer.Bo7
+    100158: Saucer.Bo8
+    100160: Saucer.Bo9
+    100162: Saucer.Bot
+    100164: Saucer.De0
+    100166: Saucer.De1
+    100168: Saucer.De2
+    100170: Saucer.De3
+    100172: Saucer.De4
+    100174: Saucer.De5
+    100176: Saucer.De6
+    100178: Saucer.De7
+    100180: Saucer.De8
+    100182: Saucer.De9
+    100184: Saucer.Dec
+    100186: Saucer.Dom
+    100188: Saucer.Le0
+    100190: Saucer.Le1
+    100192: Saucer.Le2
+    100194: Saucer.Le3
+    100196: Saucer.Le4
+    100198: Saucer.Lef
+    100200: Saucer.Nav
+    100202: Saucer.Ri0
+    100204: Saucer.Ri1
+    100206: Saucer.Ri2
+    100208: Saucer.Ri3
+    100210: Saucer.Ri4
+    100212: Saucer.Rig
+    100214: Saucer.Shu
+    100216: Saucer.Up0
+    100218: Saucer.Up1
+    100220: Saucer.Up2
+    100222: Saucer.Up3
+    100224: Saucer.Up4
+    100226: Saucer.Up5
+    100228: Saucer.Upp
+    100230: //RootNode
+    400000: Deflector.
+    400002: Deflector0
+    400004: Large.Defl
+    400006: Main.Body
+    400008: Main.Deca0
+    400010: Main.Deca1
+    400012: Main.Decal
+    400014: Main.Escap
+    400016: Main.Hul10
+    400018: Main.Hul11
+    400020: Main.Hul12
+    400022: Main.Hul13
+    400024: Main.Hul14
+    400026: Main.Hull.
+    400028: Main.Hull0
+    400030: Main.Hull1
+    400032: Main.Hull2
+    400034: Main.Hull3
+    400036: Main.Hull4
+    400038: Main.Hull5
+    400040: Main.Hull6
+    400042: Main.Hull7
+    400044: Main.Hull8
+    400046: Main.Hull9
+    400048: Main.Red.D
+    400050: Nacel.Le10
+    400052: Nacel.Le11
+    400054: Nacel.Le12
+    400056: Nacel.Le13
+    400058: Nacel.Le14
+    400060: Nacel.Le15
+    400062: Nacel.Le16
+    400064: Nacel.Le17
+    400066: Nacel.Le18
+    400068: Nacel.Lef0
+    400070: Nacel.Lef1
+    400072: Nacel.Lef2
+    400074: Nacel.Lef3
+    400076: Nacel.Lef4
+    400078: Nacel.Lef5
+    400080: Nacel.Lef6
+    400082: Nacel.Lef7
+    400084: Nacel.Lef8
+    400086: Nacel.Lef9
+    400088: Nacel.Ri10
+    400090: Nacel.Ri11
+    400092: Nacel.Ri12
+    400094: Nacel.Ri13
+    400096: Nacel.Ri14
+    400098: Nacel.Ri15
+    400100: Nacel.Ri16
+    400102: Nacel.Ri17
+    400104: Nacel.Ri18
+    400106: Nacel.Rig0
+    400108: Nacel.Rig1
+    400110: Nacel.Rig2
+    400112: Nacel.Rig3
+    400114: Nacel.Rig4
+    400116: Nacel.Rig5
+    400118: Nacel.Rig6
+    400120: Nacel.Rig7
+    400122: Nacel.Rig8
+    400124: Nacel.Rig9
+    400126: Saucer.Ba0
+    400128: Saucer.Ba1
+    400130: Saucer.Ba2
+    400132: Saucer.Ba3
+    400134: Saucer.Ba4
+    400136: Saucer.Ba5
+    400138: Saucer.Ba6
+    400140: Saucer.Bas
+    400142: Saucer.Bo0
+    400144: Saucer.Bo1
+    400146: Saucer.Bo2
+    400148: Saucer.Bo3
+    400150: Saucer.Bo4
+    400152: Saucer.Bo5
+    400154: Saucer.Bo6
+    400156: Saucer.Bo7
+    400158: Saucer.Bo8
+    400160: Saucer.Bo9
+    400162: Saucer.Bot
+    400164: Saucer.De0
+    400166: Saucer.De1
+    400168: Saucer.De2
+    400170: Saucer.De3
+    400172: Saucer.De4
+    400174: Saucer.De5
+    400176: Saucer.De6
+    400178: Saucer.De7
+    400180: Saucer.De8
+    400182: Saucer.De9
+    400184: Saucer.Dec
+    400186: Saucer.Dom
+    400188: Saucer.Le0
+    400190: Saucer.Le1
+    400192: Saucer.Le2
+    400194: Saucer.Le3
+    400196: Saucer.Le4
+    400198: Saucer.Lef
+    400200: Saucer.Nav
+    400202: Saucer.Ri0
+    400204: Saucer.Ri1
+    400206: Saucer.Ri2
+    400208: Saucer.Ri3
+    400210: Saucer.Ri4
+    400212: Saucer.Rig
+    400214: Saucer.Shu
+    400216: Saucer.Up0
+    400218: Saucer.Up1
+    400220: Saucer.Up2
+    400222: Saucer.Up3
+    400224: Saucer.Up4
+    400226: Saucer.Up5
+    400228: Saucer.Upp
+    400230: //RootNode
+    2100000: Phaser
+    2100002: Escape Pods
+    2100004: 'Sphere,3 #3'
+    2100006: 'Sphere,3 #4'
+    2100008: 'Sphere,3 #5'
+    2100010: Decal Pods
+    2100012: Saucer Dark Hull
+    2100014: Saucer Upper Dec
+    2100016: 'noname,755 #2'
+    2100018: 'noname,755 #3'
+    2100020: 'noname,755 #4'
+    2100022: Hull Mid Grey
+    2100024: Decal Black
+    2100026: Nav Thrusters
+    2100028: noname,656
+    2100030: 'noname,656 #2'
+    2100032: 'noname,656 #3'
+    2100034: 'noname,656 #4'
+    2100036: 'noname,656 #5'
+    2100038: 'noname,15 #3'
+    2100040: 'noname,15 #4'
+    2100042: Sphere,3
+    2100044: 'Sphere,3 #2'
+    2100046: noname,640
+    2100048: 'noname,640 #2'
+    2100050: 'noname,653 #2'
+    2100052: 'noname,653 #3'
+    2100054: 'noname,653 #4'
+    2100056: 'noname,653 #5'
+    2100058: 'noname,653 #6'
+    2100060: noname,648
+    2100062: 'noname,648 #2'
+    2100064: 'noname,648 #3'
+    2100066: Windows
+    2100068: Impulse Plates
+    2100070: Hull Darkest
+    2100072: 'Sphere,6 #2'
+    2100074: 'Sphere,6 #3'
+    2100076: Deck 4
+    2100078: 'noname,750 #2'
+    2100080: 'noname,750 #3'
+    2100082: Dome
+    2100084: Impulse Hull
+    2100086: 'noname,763 #2'
+    2100088: 'noname,763 #3'
+    2100090: 'noname,763 #4'
+    2100092: 'noname,773 #3'
+    2100094: 'noname,773 #4'
+    2100096: Impulse Red
+    2100098: Sphere,42
+    2100100: 'Sphere,42 #2'
+    2100102: 'Sphere,42 #3'
+    2100104: 'Sphere,42 #4'
+    2100106: 'Sphere,42 #5'
+    2100108: 'Sphere,42 #6'
+    2100110: 'Sphere,42 #7'
+    2100112: 'Sphere,42 #8'
+    2100114: 'Sphere,42 #9'
+    2100116: 'Sphere,42 #11'
+    2100118: Deflector
+    2100120: Darkest Hull
+    2100122: Hull Dark Grey
+    2100124: Decal Red
+    2100126: Shuttle Bay Door
+    2100128: Sphere,24
+    2100130: 'Sphere,24 #2'
+    2100132: 'Sphere,24 #3'
+    2100134: Torpedo Hull Pla
+    2100136: noname,678
+    2100138: Nacel Warp Core_
+    2100140: Cylinder
+    2100142: 'Cylinder #2'
+    2100144: noname,665
+    2100146: 'noname,665 #2'
+    2100148: 'noname,665 #3'
+    2100150: Decal Logo
+    2100152: noname,96
+    2100154: 'noname,96 #2'
+    2100156: 'noname,96 #3'
+    2100158: 'noname,96 #4'
+    2100160: Nacel Side Dark_
+    2100162: Nacel Lights
+    2100164: Wing Hull
+    2100166: Warp Dark Blue
+    2100168: Nacel Dark Gray
+    2100170: Warp Light Blue
+    2100172: Upper Coils
+    2100174: Bussard Collecto
+    2100176: Nacel Font Hull
+    2100178: Upper Coils Join
+    2300000: Deflector.
+    2300002: Deflector0
+    2300004: Large.Defl
+    2300006: Main.Body
+    2300008: Main.Deca0
+    2300010: Main.Deca1
+    2300012: Main.Decal
+    2300014: Main.Escap
+    2300016: Main.Hul10
+    2300018: Main.Hul11
+    2300020: Main.Hul12
+    2300022: Main.Hul13
+    2300024: Main.Hul14
+    2300026: Main.Hull.
+    2300028: Main.Hull0
+    2300030: Main.Hull1
+    2300032: Main.Hull2
+    2300034: Main.Hull3
+    2300036: Main.Hull4
+    2300038: Main.Hull5
+    2300040: Main.Hull6
+    2300042: Main.Hull7
+    2300044: Main.Hull8
+    2300046: Main.Hull9
+    2300048: Main.Red.D
+    2300050: Nacel.Le10
+    2300052: Nacel.Le11
+    2300054: Nacel.Le12
+    2300056: Nacel.Le13
+    2300058: Nacel.Le14
+    2300060: Nacel.Le15
+    2300062: Nacel.Le16
+    2300064: Nacel.Le17
+    2300066: Nacel.Le18
+    2300068: Nacel.Lef0
+    2300070: Nacel.Lef1
+    2300072: Nacel.Lef2
+    2300074: Nacel.Lef3
+    2300076: Nacel.Lef4
+    2300078: Nacel.Lef5
+    2300080: Nacel.Lef6
+    2300082: Nacel.Lef7
+    2300084: Nacel.Lef8
+    2300086: Nacel.Lef9
+    2300088: Nacel.Ri10
+    2300090: Nacel.Ri11
+    2300092: Nacel.Ri12
+    2300094: Nacel.Ri13
+    2300096: Nacel.Ri14
+    2300098: Nacel.Ri15
+    2300100: Nacel.Ri16
+    2300102: Nacel.Ri17
+    2300104: Nacel.Ri18
+    2300106: Nacel.Rig0
+    2300108: Nacel.Rig1
+    2300110: Nacel.Rig2
+    2300112: Nacel.Rig3
+    2300114: Nacel.Rig4
+    2300116: Nacel.Rig5
+    2300118: Nacel.Rig6
+    2300120: Nacel.Rig7
+    2300122: Nacel.Rig8
+    2300124: Nacel.Rig9
+    2300126: Saucer.Ba0
+    2300128: Saucer.Ba1
+    2300130: Saucer.Ba2
+    2300132: Saucer.Ba3
+    2300134: Saucer.Ba4
+    2300136: Saucer.Ba5
+    2300138: Saucer.Ba6
+    2300140: Saucer.Bas
+    2300142: Saucer.Bo0
+    2300144: Saucer.Bo1
+    2300146: Saucer.Bo2
+    2300148: Saucer.Bo3
+    2300150: Saucer.Bo4
+    2300152: Saucer.Bo5
+    2300154: Saucer.Bo6
+    2300156: Saucer.Bo7
+    2300158: Saucer.Bo8
+    2300160: Saucer.Bo9
+    2300162: Saucer.Bot
+    2300164: Saucer.De0
+    2300166: Saucer.De1
+    2300168: Saucer.De2
+    2300170: Saucer.De3
+    2300172: Saucer.De4
+    2300174: Saucer.De5
+    2300176: Saucer.De6
+    2300178: Saucer.De7
+    2300180: Saucer.De8
+    2300182: Saucer.De9
+    2300184: Saucer.Dec
+    2300186: Saucer.Dom
+    2300188: Saucer.Le0
+    2300190: Saucer.Le1
+    2300192: Saucer.Le2
+    2300194: Saucer.Le3
+    2300196: Saucer.Le4
+    2300198: Saucer.Lef
+    2300200: Saucer.Nav
+    2300202: Saucer.Ri0
+    2300204: Saucer.Ri1
+    2300206: Saucer.Ri2
+    2300208: Saucer.Ri3
+    2300210: Saucer.Ri4
+    2300212: Saucer.Rig
+    2300214: Saucer.Shu
+    2300216: Saucer.Up0
+    2300218: Saucer.Up1
+    2300220: Saucer.Up2
+    2300222: Saucer.Up3
+    2300224: Saucer.Up4
+    2300226: Saucer.Up5
+    2300228: Saucer.Upp
+    3300000: Deflector.
+    3300002: Deflector0
+    3300004: Large.Defl
+    3300006: Main.Body
+    3300008: Main.Deca0
+    3300010: Main.Deca1
+    3300012: Main.Decal
+    3300014: Main.Escap
+    3300016: Main.Hul10
+    3300018: Main.Hul11
+    3300020: Main.Hul12
+    3300022: Main.Hul13
+    3300024: Main.Hul14
+    3300026: Main.Hull.
+    3300028: Main.Hull0
+    3300030: Main.Hull1
+    3300032: Main.Hull2
+    3300034: Main.Hull3
+    3300036: Main.Hull4
+    3300038: Main.Hull5
+    3300040: Main.Hull6
+    3300042: Main.Hull7
+    3300044: Main.Hull8
+    3300046: Main.Hull9
+    3300048: Main.Red.D
+    3300050: Nacel.Le10
+    3300052: Nacel.Le11
+    3300054: Nacel.Le12
+    3300056: Nacel.Le13
+    3300058: Nacel.Le14
+    3300060: Nacel.Le15
+    3300062: Nacel.Le16
+    3300064: Nacel.Le17
+    3300066: Nacel.Le18
+    3300068: Nacel.Lef0
+    3300070: Nacel.Lef1
+    3300072: Nacel.Lef2
+    3300074: Nacel.Lef3
+    3300076: Nacel.Lef4
+    3300078: Nacel.Lef5
+    3300080: Nacel.Lef6
+    3300082: Nacel.Lef7
+    3300084: Nacel.Lef8
+    3300086: Nacel.Lef9
+    3300088: Nacel.Ri10
+    3300090: Nacel.Ri11
+    3300092: Nacel.Ri12
+    3300094: Nacel.Ri13
+    3300096: Nacel.Ri14
+    3300098: Nacel.Ri15
+    3300100: Nacel.Ri16
+    3300102: Nacel.Ri17
+    3300104: Nacel.Ri18
+    3300106: Nacel.Rig0
+    3300108: Nacel.Rig1
+    3300110: Nacel.Rig2
+    3300112: Nacel.Rig3
+    3300114: Nacel.Rig4
+    3300116: Nacel.Rig5
+    3300118: Nacel.Rig6
+    3300120: Nacel.Rig7
+    3300122: Nacel.Rig8
+    3300124: Nacel.Rig9
+    3300126: Saucer.Ba0
+    3300128: Saucer.Ba1
+    3300130: Saucer.Ba2
+    3300132: Saucer.Ba3
+    3300134: Saucer.Ba4
+    3300136: Saucer.Ba5
+    3300138: Saucer.Ba6
+    3300140: Saucer.Bas
+    3300142: Saucer.Bo0
+    3300144: Saucer.Bo1
+    3300146: Saucer.Bo2
+    3300148: Saucer.Bo3
+    3300150: Saucer.Bo4
+    3300152: Saucer.Bo5
+    3300154: Saucer.Bo6
+    3300156: Saucer.Bo7
+    3300158: Saucer.Bo8
+    3300160: Saucer.Bo9
+    3300162: Saucer.Bot
+    3300164: Saucer.De0
+    3300166: Saucer.De1
+    3300168: Saucer.De2
+    3300170: Saucer.De3
+    3300172: Saucer.De4
+    3300174: Saucer.De5
+    3300176: Saucer.De6
+    3300178: Saucer.De7
+    3300180: Saucer.De8
+    3300182: Saucer.De9
+    3300184: Saucer.Dec
+    3300186: Saucer.Dom
+    3300188: Saucer.Le0
+    3300190: Saucer.Le1
+    3300192: Saucer.Le2
+    3300194: Saucer.Le3
+    3300196: Saucer.Le4
+    3300198: Saucer.Lef
+    3300200: Saucer.Nav
+    3300202: Saucer.Ri0
+    3300204: Saucer.Ri1
+    3300206: Saucer.Ri2
+    3300208: Saucer.Ri3
+    3300210: Saucer.Ri4
+    3300212: Saucer.Rig
+    3300214: Saucer.Shu
+    3300216: Saucer.Up0
+    3300218: Saucer.Up1
+    3300220: Saucer.Up2
+    3300222: Saucer.Up3
+    3300224: Saucer.Up4
+    3300226: Saucer.Up5
+    3300228: Saucer.Upp
+    4300000: Saucer.Upp
+    4300002: Saucer.Bas
+    4300004: Saucer.Up0
+    4300006: Saucer.Ba0
+    4300008: Saucer.Up1
+    4300010: Saucer.Ba1
+    4300012: Saucer.Bot
+    4300014: Saucer.Bo0
+    4300016: Saucer.Bo1
+    4300018: Saucer.Ba2
+    4300020: Saucer.Bo2
+    4300022: Saucer.Nav
+    4300024: Saucer.Ba3
+    4300026: Saucer.Bo3
+    4300028: Saucer.Ba4
+    4300030: Saucer.Bo4
+    4300032: Saucer.Up2
+    4300034: Saucer.Shu
+    4300036: Saucer.Bo5
+    4300038: Saucer.Up3
+    4300040: Saucer.Up4
+    4300042: Saucer.Bo6
+    4300044: Saucer.Up5
+    4300046: Saucer.Ba5
+    4300048: Saucer.Ba6
+    4300050: Saucer.Bo7
+    4300052: Saucer.Bo8
+    4300054: Saucer.Bo9
+    4300056: Saucer.Dec
+    4300058: Saucer.De0
+    4300060: Saucer.De1
+    4300062: Saucer.De2
+    4300064: Saucer.De3
+    4300066: Saucer.De4
+    4300068: Saucer.De5
+    4300070: Saucer.De6
+    4300072: Saucer.De7
+    4300074: Saucer.De8
+    4300076: Saucer.Dom
+    4300078: Saucer.De9
+    4300080: Saucer.Lef
+    4300082: Saucer.Le0
+    4300084: Saucer.Le1
+    4300086: Saucer.Le2
+    4300088: Saucer.Le3
+    4300090: Saucer.Le4
+    4300092: Saucer.Rig
+    4300094: Saucer.Ri0
+    4300096: Saucer.Ri1
+    4300098: Saucer.Ri2
+    4300100: Saucer.Ri3
+    4300102: Saucer.Ri4
+    4300104: Main.Body
+    4300106: Main.Hul14
+    4300108: Deflector0
+    4300110: Large.Defl
+    4300112: Main.Hul13
+    4300114: Main.Hul12
+    4300116: Main.Red.D
+    4300118: Main.Deca1
+    4300120: Main.Hul11
+    4300122: Main.Hul10
+    4300124: Main.Hull9
+    4300126: Main.Hull8
+    4300128: Main.Hull7
+    4300130: Main.Deca0
+    4300132: Main.Hull6
+    4300134: Main.Decal
+    4300136: Main.Hull5
+    4300138: Main.Escap
+    4300140: Main.Hull4
+    4300142: Main.Hull3
+    4300144: Deflector.
+    4300146: Main.Hull2
+    4300148: Main.Hull1
+    4300150: Main.Hull0
+    4300152: Main.Hull.
+    4300154: Nacel.Ri18
+    4300156: Nacel.Ri17
+    4300158: Nacel.Ri16
+    4300160: Nacel.Ri15
+    4300162: Nacel.Ri14
+    4300164: Nacel.Ri13
+    4300166: Nacel.Ri12
+    4300168: Nacel.Ri11
+    4300170: Nacel.Ri10
+    4300172: Nacel.Rig9
+    4300174: Nacel.Rig8
+    4300176: Nacel.Rig7
+    4300178: Nacel.Rig6
+    4300180: Nacel.Rig5
+    4300182: Nacel.Rig4
+    4300184: Nacel.Rig3
+    4300186: Nacel.Rig2
+    4300188: Nacel.Rig1
+    4300190: Nacel.Rig0
+    4300192: Nacel.Le18
+    4300194: Nacel.Le17
+    4300196: Nacel.Le16
+    4300198: Nacel.Le15
+    4300200: Nacel.Le14
+    4300202: Nacel.Le13
+    4300204: Nacel.Le12
+    4300206: Nacel.Le11
+    4300208: Nacel.Le10
+    4300210: Nacel.Lef9
+    4300212: Nacel.Lef8
+    4300214: Nacel.Lef7
+    4300216: Nacel.Lef6
+    4300218: Nacel.Lef5
+    4300220: Nacel.Lef4
+    4300222: Nacel.Lef3
+    4300224: Nacel.Lef2
+    4300226: Nacel.Lef1
+    4300228: Nacel.Lef0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

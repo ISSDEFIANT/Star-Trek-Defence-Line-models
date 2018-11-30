@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 0085497fc864a4e18aa7a48d79f22f1c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Aft Photon
+    100004: Aft Saucer
+    100006: Battle Br1
+    100008: Battle Bri
+    100010: Body Cond1
+    100012: Body Cond2
+    100014: Body Condu
+    100016: BODY EDGE
+    100018: Dark Wind1
+    100020: Dark Wind2
+    100022: Dark Windo
+    100024: DEFLECTO01
+    100026: DEFLECTO02
+    100028: Dock Left
+    100030: Dock Right
+    100032: Flat1
+    100034: Foreward P
+    100036: H2 Collec1
+    100038: H2 Collec2
+    100040: H2 Collect
+    100042: Hull Under
+    100044: Hull Upper
+    100046: Impulse Gl
+    100048: Lights
+    100050: 'Lights #2'
+    100052: 'Lights #3'
+    100054: Lower Brid
+    100056: Middle Bri
+    100058: Nacel Bot1
+    100060: Nacel Bott
+    100062: Nacel Inne
+    100064: Nacel Sup1
+    100066: Nacel Sup2
+    100068: Nacel Sup3
+    100070: Nacel Supp
+    100072: Nacel Top
+    100074: Nacel Top1
+    100076: Neck  Lead
+    100078: Neck Condu
+    100080: Neck Impu1
+    100082: Neck Side
+    100084: Saucer Bo1
+    100086: Saucer Bo2
+    100088: Saucer Bot
+    100090: Saucer Do1
+    100092: Saucer Doc
+    100094: Saucer Im0
+    100096: Saucer Im1
+    100098: Saucer Im2
+    100100: Saucer Imp
+    100102: Saucer Ma1
+    100104: Saucer Mai
+    100106: Saucer RC1
+    100108: Saucer RCS
+    100110: Saucer Sen
+    100112: Saucer Sh1
+    100114: Saucer Shu
+    100116: Saucer Uni
+    100118: Shuttle B1
+    100120: Shuttle B2
+    100122: Shuttle B3
+    100124: Shuttle B4
+    100126: Shuttle B5
+    100128: Shuttle B6
+    100130: Shuttle Ba
+    100132: Smooth1
+    100134: Smooth2
+    100136: Top Bridg1
+    100138: Top Bridge
+    100140: Ventral Ph
+    100142: Warp Coil
+    100144: Warp Coil1
+    100146: Warp Coil2
+    100148: Warp Coil3
+    100150: Warp Glow
+    100152: 'yacht #2'
+    400000: //RootNode
+    400002: Aft Photon
+    400004: Aft Saucer
+    400006: Battle Br1
+    400008: Battle Bri
+    400010: Body Cond1
+    400012: Body Cond2
+    400014: Body Condu
+    400016: BODY EDGE
+    400018: Dark Wind1
+    400020: Dark Wind2
+    400022: Dark Windo
+    400024: DEFLECTO01
+    400026: DEFLECTO02
+    400028: Dock Left
+    400030: Dock Right
+    400032: Flat1
+    400034: Foreward P
+    400036: H2 Collec1
+    400038: H2 Collec2
+    400040: H2 Collect
+    400042: Hull Under
+    400044: Hull Upper
+    400046: Impulse Gl
+    400048: Lights
+    400050: 'Lights #2'
+    400052: 'Lights #3'
+    400054: Lower Brid
+    400056: Middle Bri
+    400058: Nacel Bot1
+    400060: Nacel Bott
+    400062: Nacel Inne
+    400064: Nacel Sup1
+    400066: Nacel Sup2
+    400068: Nacel Sup3
+    400070: Nacel Supp
+    400072: Nacel Top
+    400074: Nacel Top1
+    400076: Neck  Lead
+    400078: Neck Condu
+    400080: Neck Impu1
+    400082: Neck Side
+    400084: Saucer Bo1
+    400086: Saucer Bo2
+    400088: Saucer Bot
+    400090: Saucer Do1
+    400092: Saucer Doc
+    400094: Saucer Im0
+    400096: Saucer Im1
+    400098: Saucer Im2
+    400100: Saucer Imp
+    400102: Saucer Ma1
+    400104: Saucer Mai
+    400106: Saucer RC1
+    400108: Saucer RCS
+    400110: Saucer Sen
+    400112: Saucer Sh1
+    400114: Saucer Shu
+    400116: Saucer Uni
+    400118: Shuttle B1
+    400120: Shuttle B2
+    400122: Shuttle B3
+    400124: Shuttle B4
+    400126: Shuttle B5
+    400128: Shuttle B6
+    400130: Shuttle Ba
+    400132: Smooth1
+    400134: Smooth2
+    400136: Top Bridg1
+    400138: Top Bridge
+    400140: Ventral Ph
+    400142: Warp Coil
+    400144: Warp Coil1
+    400146: Warp Coil2
+    400148: Warp Coil3
+    400150: Warp Glow
+    400152: 'yacht #2'
+    2100000: Captains Yaght
+    2100002: Warp engine glow
+    2100004: Phaser banks
+    2100006: 1701-D Hull
+    2100008: Battle Hull Neck
+    2100010: Neck Side
+    2100012: Shuttle Bay
+    2100014: Sensor Array
+    2100016: Impulse Engines
+    2100018: Saucer Top
+    2100020: Saucer Inner Bot
+    2100022: Saucer OuterBott
+    2100024: OuterRing Bottom
+    2100026: Nacelle Top
+    2100028: Aft Section Bott
+    2100030: Aft Section Top
+    2100032: Nacelle Bottom
+    2100034: Bridge Base
+    2100036: Lit Windows
+    2100038: Battle Hull Top
+    2100040: Battle Hull Bott
+    2100042: H2 Swirl
+    2100044: Docking Bay Righ
+    2100046: Docking Bay Left
+    2100048: Deflector
+    2100050: Dark Windows
+    2300000: Aft Photon
+    2300002: Aft Saucer
+    2300004: Battle Br1
+    2300006: Battle Bri
+    2300008: Body Cond1
+    2300010: Body Cond2
+    2300012: Body Condu
+    2300014: BODY EDGE
+    2300016: Dark Wind1
+    2300018: Dark Wind2
+    2300020: Dark Windo
+    2300022: DEFLECTO01
+    2300024: DEFLECTO02
+    2300026: Dock Left
+    2300028: Dock Right
+    2300030: Flat1
+    2300032: Foreward P
+    2300034: H2 Collec1
+    2300036: H2 Collec2
+    2300038: H2 Collect
+    2300040: Hull Under
+    2300042: Hull Upper
+    2300044: Impulse Gl
+    2300046: Lights
+    2300048: 'Lights #2'
+    2300050: 'Lights #3'
+    2300052: Lower Brid
+    2300054: Middle Bri
+    2300056: Nacel Bot1
+    2300058: Nacel Bott
+    2300060: Nacel Inne
+    2300062: Nacel Sup1
+    2300064: Nacel Sup2
+    2300066: Nacel Sup3
+    2300068: Nacel Supp
+    2300070: Nacel Top
+    2300072: Nacel Top1
+    2300074: Neck  Lead
+    2300076: Neck Condu
+    2300078: Neck Impu1
+    2300080: Neck Side
+    2300082: Saucer Bo1
+    2300084: Saucer Bo2
+    2300086: Saucer Bot
+    2300088: Saucer Do1
+    2300090: Saucer Doc
+    2300092: Saucer Im0
+    2300094: Saucer Im1
+    2300096: Saucer Im2
+    2300098: Saucer Imp
+    2300100: Saucer Ma1
+    2300102: Saucer Mai
+    2300104: Saucer RC1
+    2300106: Saucer RCS
+    2300108: Saucer Sen
+    2300110: Saucer Sh1
+    2300112: Saucer Shu
+    2300114: Saucer Uni
+    2300116: Shuttle B1
+    2300118: Shuttle B2
+    2300120: Shuttle B3
+    2300122: Shuttle B4
+    2300124: Shuttle B5
+    2300126: Shuttle B6
+    2300128: Shuttle Ba
+    2300130: Smooth1
+    2300132: Smooth2
+    2300134: Top Bridg1
+    2300136: Top Bridge
+    2300138: Ventral Ph
+    2300140: Warp Coil
+    2300142: Warp Coil1
+    2300144: Warp Coil2
+    2300146: Warp Coil3
+    2300148: Warp Glow
+    2300150: 'yacht #2'
+    3300000: Aft Photon
+    3300002: Aft Saucer
+    3300004: Battle Br1
+    3300006: Battle Bri
+    3300008: Body Cond1
+    3300010: Body Cond2
+    3300012: Body Condu
+    3300014: BODY EDGE
+    3300016: Dark Wind1
+    3300018: Dark Wind2
+    3300020: Dark Windo
+    3300022: DEFLECTO01
+    3300024: DEFLECTO02
+    3300026: Dock Left
+    3300028: Dock Right
+    3300030: Flat1
+    3300032: Foreward P
+    3300034: H2 Collec1
+    3300036: H2 Collec2
+    3300038: H2 Collect
+    3300040: Hull Under
+    3300042: Hull Upper
+    3300044: Impulse Gl
+    3300046: Lights
+    3300048: 'Lights #2'
+    3300050: 'Lights #3'
+    3300052: Lower Brid
+    3300054: Middle Bri
+    3300056: Nacel Bot1
+    3300058: Nacel Bott
+    3300060: Nacel Inne
+    3300062: Nacel Sup1
+    3300064: Nacel Sup2
+    3300066: Nacel Sup3
+    3300068: Nacel Supp
+    3300070: Nacel Top
+    3300072: Nacel Top1
+    3300074: Neck  Lead
+    3300076: Neck Condu
+    3300078: Neck Impu1
+    3300080: Neck Side
+    3300082: Saucer Bo1
+    3300084: Saucer Bo2
+    3300086: Saucer Bot
+    3300088: Saucer Do1
+    3300090: Saucer Doc
+    3300092: Saucer Im0
+    3300094: Saucer Im1
+    3300096: Saucer Im2
+    3300098: Saucer Imp
+    3300100: Saucer Ma1
+    3300102: Saucer Mai
+    3300104: Saucer RC1
+    3300106: Saucer RCS
+    3300108: Saucer Sen
+    3300110: Saucer Sh1
+    3300112: Saucer Shu
+    3300114: Saucer Uni
+    3300116: Shuttle B1
+    3300118: Shuttle B2
+    3300120: Shuttle B3
+    3300122: Shuttle B4
+    3300124: Shuttle B5
+    3300126: Shuttle B6
+    3300128: Shuttle Ba
+    3300130: Smooth1
+    3300132: Smooth2
+    3300134: Top Bridg1
+    3300136: Top Bridge
+    3300138: Ventral Ph
+    3300140: Warp Coil
+    3300142: Warp Coil1
+    3300144: Warp Coil2
+    3300146: Warp Coil3
+    3300148: Warp Glow
+    3300150: 'yacht #2'
+    4300000: 'yacht #2'
+    4300002: Warp Glow
+    4300004: Warp Coil3
+    4300006: Warp Coil2
+    4300008: Warp Coil1
+    4300010: Warp Coil
+    4300012: Ventral Ph
+    4300014: Top Bridge
+    4300016: Top Bridg1
+    4300018: Smooth2
+    4300020: Smooth1
+    4300022: Shuttle Ba
+    4300024: Shuttle B6
+    4300026: Shuttle B5
+    4300028: Shuttle B4
+    4300030: Shuttle B3
+    4300032: Shuttle B2
+    4300034: Shuttle B1
+    4300036: Saucer Uni
+    4300038: Saucer Shu
+    4300040: Saucer Sh1
+    4300042: Saucer Sen
+    4300044: Saucer RCS
+    4300046: Saucer RC1
+    4300048: Saucer Mai
+    4300050: Saucer Ma1
+    4300052: Saucer Im0
+    4300054: Saucer Imp
+    4300056: Saucer Im2
+    4300058: Saucer Im1
+    4300060: Saucer Doc
+    4300062: Saucer Do1
+    4300064: Saucer Bot
+    4300066: Saucer Bo2
+    4300068: Saucer Bo1
+    4300070: Neck Side
+    4300072: Neck Impu1
+    4300074: Neck Condu
+    4300076: Neck  Lead
+    4300078: Nacel Top1
+    4300080: Nacel Top
+    4300082: Nacel Supp
+    4300084: Nacel Sup3
+    4300086: Nacel Sup2
+    4300088: Nacel Sup1
+    4300090: Nacel Inne
+    4300092: Nacel Bott
+    4300094: Nacel Bot1
+    4300096: Middle Bri
+    4300098: Lower Brid
+    4300100: 'Lights #3'
+    4300102: 'Lights #2'
+    4300104: Lights
+    4300106: Impulse Gl
+    4300108: Hull Upper
+    4300110: Hull Under
+    4300112: H2 Collect
+    4300114: H2 Collec2
+    4300116: H2 Collec1
+    4300118: Foreward P
+    4300120: Flat1
+    4300122: Dock Right
+    4300124: Dock Left
+    4300126: DEFLECTO02
+    4300128: DEFLECTO01
+    4300130: Dark Windo
+    4300132: Dark Wind2
+    4300134: Dark Wind1
+    4300136: BODY EDGE
+    4300138: Body Condu
+    4300140: Body Cond2
+    4300142: Body Cond1
+    4300144: Battle Bri
+    4300146: Battle Br1
+    4300148: Aft Saucer
+    4300150: Aft Photon
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
