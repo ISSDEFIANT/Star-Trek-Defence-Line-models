@@ -1,7 +1,9 @@
 fileFormatVersion: 2
-guid: d66ac4a84bb4d44c487c1a956344a8b0
+guid: a5039a990f110e543bdb4e0f3c195bd4
+timeCreated: 1440506621
+licenseType: Free
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 18
   fileIDToRecycleName:
     100000: Connector
     100002: Connector0
@@ -269,46 +271,6 @@ ModelImporter:
     400260: Weapons_S0
     400262: Weapons_S1
     400264: Weapons_Sm
-    2100000: Ops
-    2100002: Promenade_Flat
-    2100004: Connector
-    2100006: Detail_1
-    2100008: Detail_Brown
-    2100010: Hull
-    2100012: DS9_Default
-    2100014: DockingRing_Top
-    2100016: DockingRing_Bott
-    2100018: DockingRing_Coup
-    2100020: DockingRing_Cou2
-    2100022: DockingRing_Cou1
-    2100024: DockingRing_Cou3
-    2100026: DockingRing_Inne
-    2100028: DockingRing_Inse
-    2100030: DockingRing_Oute
-    2100032: DockingRing_T1
-    2100034: 'Material #1'
-    2100036: Weapons_Flat
-    2100038: Weapons_Inset
-    2100040: Weapons_Smooth
-    2100042: Detail_11
-    2100044: Detail_12
-    2100046: Pylon_Inner
-    2100048: Pylon_Outer
-    2100050: Pylon_Side
-    2100052: Pylon_Top
-    2100054: Ractor_Red
-    2100056: Reactor_Bottom
-    2100058: Habitat_Ring_Inn
-    2100060: Habitat_Ring_Ins
-    2100062: Habitat_Ring_Out
-    2100064: Habitat_Ring_Top
-    2100066: Connector_Lights
-    2100068: Detail_Brown1
-    2100070: Promenade
-    2100072: 'Material #7'
-    2100074: Promenade_Fla1
-    2100076: DockingRing_C1
-    2100078: DockingRing_C2
     2300000: Connector
     2300002: Connector0
     2300004: connector0
@@ -660,33 +622,25 @@ ModelImporter:
     4300228: DockingR27
     4300230: DockingR28
     4300232: DockingR29
-  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
-    animationRotationError: 0.5
-    animationPositionError: 0.5
-    animationScaleError: 0.5
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -694,51 +648,38 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 3
-    normalCalculationMode: 4
+    tangentImportMode: 1
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
     human: []
     skeleton: []
-    armTwist: 0.5
-    foreArmTwist: 0.5
-    upperLegTwist: 0.5
-    legTwist: 0.5
-    armStretch: 0.05
-    legStretch: 0.05
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
-    hasTranslationDoF: 0
-    hasExtraRoot: 0
-    skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
-  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

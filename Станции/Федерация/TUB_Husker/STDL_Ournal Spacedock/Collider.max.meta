@@ -1,15 +1,44 @@
 fileFormatVersion: 2
-guid: f0a21c701d0e34764a3e69e30d8730d2
+guid: 30b8e83637d7bd343bab7110b7417247
+timeCreated: 1521264845
+licenseType: Free
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
-    2186277476908879412: ImportLogs
-  externalObjects: {}
+    100000: //RootNode
+    100002: Collider1
+    100004: Collider2
+    100006: Collider3
+    100008: Collider4
+    400000: //RootNode
+    400002: Collider1
+    400004: Collider2
+    400006: Collider3
+    400008: Collider4
+    2300000: Collider1
+    2300002: Collider2
+    2300004: Collider3
+    2300006: Collider4
+    3300000: Collider1
+    3300002: Collider2
+    3300004: Collider3
+    3300006: Collider4
+    4300000: Collider1
+    4300002: Collider2
+    4300004: Collider3
+    4300006: Collider4
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12 - Default
+    second: {fileID: 2100000, guid: fef9a7cde39f77f498cec5c36bfe7c6e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -23,7 +52,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -48,15 +76,11 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

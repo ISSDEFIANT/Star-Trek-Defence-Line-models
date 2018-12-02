@@ -1,15 +1,39 @@
 fileFormatVersion: 2
-guid: 534a419ff6664433496bb4978b107187
+guid: b5d06a690d089de4089542fc59b22631
+timeCreated: 1512628777
+licenseType: Free
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
-    2186277476908879412: ImportLogs
-  externalObjects: {}
+    100000: BrifgePart
+    100002: //RootNode
+    100004: WarpCorePart
+    400000: BrifgePart
+    400002: //RootNode
+    400004: WarpCorePart
+    2300000: BrifgePart
+    2300002: WarpCorePart
+    3300000: BrifgePart
+    3300002: WarpCorePart
+    4300000: BrifgePart
+    4300002: WarpCorePart
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2 - Default
+    second: {fileID: 2100000, guid: 7b4838b5813166942973835bfb1c7bdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3 - Default
+    second: {fileID: 2100000, guid: 8f07b287353dc5a48a93a0a0372ec1f4, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -23,7 +47,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -48,15 +71,11 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

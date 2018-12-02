@@ -1,7 +1,9 @@
 fileFormatVersion: 2
-guid: 35b50e0ea70b54a2e9afe9fea39b85cd
+guid: a017652e259c6da48a702b11f55b6074
+timeCreated: 1454471596
+licenseType: Free
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: Antenna Ba
     100002: Antenna Pa
@@ -225,19 +227,6 @@ ModelImporter:
     400216: Support Ta
     400218: Top Sectio
     400220: TopMast
-    2100000: Hull Basic
-    2100002: Gold Light
-    2100004: Dark Gray Insets
-    2100006: Windows
-    2100008: Red Bands
-    2100010: Black Plastic
-    2100012: Lined Panels
-    2100014: Logos
-    2100016: Silver
-    2100018: Blue Plastic
-    2100020: Blue Sail Panels
-    2100022: Pale Grey
-    2100024: Red Neon
     2300000: Antenna Ba
     2300002: Antenna Pa
     2300004: Arm L Cap
@@ -550,33 +539,26 @@ ModelImporter:
     4300202: Support T0
     4300204: RS Support
     4300206: Support Co
-  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 1
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -584,34 +566,25 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -622,10 +595,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
-    skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
   humanoidOversampling: 1

@@ -1,15 +1,79 @@
 fileFormatVersion: 2
-guid: 9380ea05dc1d3424b866635d9116c00d
+guid: fc20abc6f2177a240b6363b8f98c4b03
+timeCreated: 1515477088
+licenseType: Free
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 22
   fileIDToRecycleName:
-    2186277476908879412: ImportLogs
-  externalObjects: {}
+    100000: Exc1
+    100002: Exc2
+    100004: Exc3
+    100006: exc4
+    100008: //RootNode
+    100010: I1
+    100012: I2
+    100014: I3
+    100016: I4
+    400000: Exc1
+    400002: Exc2
+    400004: Exc3
+    400006: exc4
+    400008: //RootNode
+    400010: I1
+    400012: I2
+    400014: I3
+    400016: I4
+    2300000: Exc1
+    2300002: Exc2
+    2300004: Exc3
+    2300006: exc4
+    2300008: I1
+    2300010: I2
+    2300012: I3
+    2300014: I4
+    3300000: Exc1
+    3300002: Exc2
+    3300004: Exc3
+    3300006: exc4
+    3300008: I1
+    3300010: I2
+    3300012: I3
+    3300014: I4
+    4300000: Exc2
+    4300002: Exc3
+    4300004: Exc1
+    4300006: exc4
+    4300008: I1
+    4300010: I2
+    4300012: I3
+    4300014: I4
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12 - DefMat
+    second: {fileID: 2100000, guid: a3c8413b28eef1543b6432159cdf9fad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - DefMat
+    second: {fileID: 2100000, guid: 96ae4ae82746aaf4b8f97ddebe08f4ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24 - DefMat
+    second: {fileID: 2100000, guid: ed7be924dde98d8428492e67a7a2c45c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 6 - DefMat
+    second: {fileID: 2100000, guid: 2a123437743d5c645b44c687f0119af0, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -23,7 +87,6 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -48,15 +111,11 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0

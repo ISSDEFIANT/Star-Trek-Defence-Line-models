@@ -1,15 +1,238 @@
 fileFormatVersion: 2
-guid: 52b5780ce9d9845aaa02bb12810569c9
+guid: cb09068c3c305104eb3c7424c2baf2ab
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
+    100000: Box001
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Cone001
+    100018: Cone002
+    100020: Cone003
+    100022: Cone004
+    100024: Cone005
+    100026: Cone006
+    100028: Cone007
+    100030: Cone008
+    100032: Cone009
+    100034: Cone010
+    100036: Cone011
+    100038: Cone012
+    100040: Cone013
+    100042: Cone014
+    100044: Cone015
+    100046: Cone016
+    100048: Cylinder001
+    100050: Cylinder002
+    100052: Cylinder003
+    100054: Cylinder004
+    100056: Cylinder005
+    100058: Cylinder006
+    100060: Cylinder007
+    100062: Object001
+    100064: Object002
+    100066: Object003
+    100068: Object004
+    100070: Object005
+    100072: Object006
+    100074: Object007
+    100076: Object008
+    100078: Sphere001
+    100080: Sphere002
+    100082: //RootNode
+    100084: Cylinder008
+    100086: Cylinder009
+    400000: Box001
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Cone001
+    400018: Cone002
+    400020: Cone003
+    400022: Cone004
+    400024: Cone005
+    400026: Cone006
+    400028: Cone007
+    400030: Cone008
+    400032: Cone009
+    400034: Cone010
+    400036: Cone011
+    400038: Cone012
+    400040: Cone013
+    400042: Cone014
+    400044: Cone015
+    400046: Cone016
+    400048: Cylinder001
+    400050: Cylinder002
+    400052: Cylinder003
+    400054: Cylinder004
+    400056: Cylinder005
+    400058: Cylinder006
+    400060: Cylinder007
+    400062: Object001
+    400064: Object002
+    400066: Object003
+    400068: Object004
+    400070: Object005
+    400072: Object006
+    400074: Object007
+    400076: Object008
+    400078: Sphere001
+    400080: Sphere002
+    400082: //RootNode
+    400084: Cylinder008
+    400086: Cylinder009
+    2300000: Box001
+    2300002: Box002
+    2300004: Box003
+    2300006: Box004
+    2300008: Box005
+    2300010: Box006
+    2300012: Box007
+    2300014: Box008
+    2300016: Cone001
+    2300018: Cone002
+    2300020: Cone003
+    2300022: Cone004
+    2300024: Cone005
+    2300026: Cone006
+    2300028: Cone007
+    2300030: Cone008
+    2300032: Cone009
+    2300034: Cone010
+    2300036: Cone011
+    2300038: Cone012
+    2300040: Cone013
+    2300042: Cone014
+    2300044: Cone015
+    2300046: Cone016
+    2300048: Cylinder001
+    2300050: Cylinder002
+    2300052: Cylinder003
+    2300054: Cylinder004
+    2300056: Cylinder005
+    2300058: Cylinder006
+    2300060: Cylinder007
+    2300062: Object001
+    2300064: Object002
+    2300066: Object003
+    2300068: Object004
+    2300070: Object005
+    2300072: Object006
+    2300074: Object007
+    2300076: Object008
+    2300078: Sphere001
+    2300080: Sphere002
+    2300082: Cylinder008
+    2300084: Cylinder009
+    3300000: Box001
+    3300002: Box002
+    3300004: Box003
+    3300006: Box004
+    3300008: Box005
+    3300010: Box006
+    3300012: Box007
+    3300014: Box008
+    3300016: Cone001
+    3300018: Cone002
+    3300020: Cone003
+    3300022: Cone004
+    3300024: Cone005
+    3300026: Cone006
+    3300028: Cone007
+    3300030: Cone008
+    3300032: Cone009
+    3300034: Cone010
+    3300036: Cone011
+    3300038: Cone012
+    3300040: Cone013
+    3300042: Cone014
+    3300044: Cone015
+    3300046: Cone016
+    3300048: Cylinder001
+    3300050: Cylinder002
+    3300052: Cylinder003
+    3300054: Cylinder004
+    3300056: Cylinder005
+    3300058: Cylinder006
+    3300060: Cylinder007
+    3300062: Object001
+    3300064: Object002
+    3300066: Object003
+    3300068: Object004
+    3300070: Object005
+    3300072: Object006
+    3300074: Object007
+    3300076: Object008
+    3300078: Sphere001
+    3300080: Sphere002
+    3300082: Cylinder008
+    3300084: Cylinder009
+    4300000: Cylinder001
+    4300002: Box008
+    4300004: Box007
+    4300006: Box006
+    4300008: Box005
+    4300010: Box004
+    4300012: Box003
+    4300014: Box002
+    4300016: Box001
+    4300018: Sphere001
+    4300020: Cone008
+    4300022: Cone007
+    4300024: Cone006
+    4300026: Cone005
+    4300028: Cone004
+    4300030: Cone003
+    4300032: Cone002
+    4300034: Cone001
+    4300036: Cylinder002
+    4300038: Cylinder007
+    4300040: Object008
+    4300042: Cylinder006
+    4300044: Object007
+    4300046: Cylinder005
+    4300048: Object006
+    4300050: Cylinder004
+    4300052: Object005
+    4300054: Cylinder003
+    4300056: Object001
+    4300058: Object002
+    4300060: Object003
+    4300062: Sphere002
+    4300064: Cone009
+    4300066: Cone010
+    4300068: Cone011
+    4300070: Cone012
+    4300072: Cone013
+    4300074: Cone014
+    4300076: Cone015
+    4300078: Cone016
+    4300080: Object004
+    4300082: Cylinder008
+    4300084: Cylinder009
+    9500000: //RootNode
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: f3136f6b546883841bb53dd8d07ea92d, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -38,10 +261,10 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
+    importVisibility: 0
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -49,19 +272,19 @@ ModelImporter:
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    indexFormat: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 4
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:

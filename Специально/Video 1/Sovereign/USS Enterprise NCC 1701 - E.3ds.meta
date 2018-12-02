@@ -1,7 +1,9 @@
 fileFormatVersion: 2
-guid: 662e45aad811244b69621f0717c3821e
+guid: 890342d80e66a574087476f2759459cc
+timeCreated: 1497375870
+licenseType: Free
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: Deflector.
     100002: Deflector0
@@ -235,96 +237,6 @@ ModelImporter:
     400226: Saucer.Up5
     400228: Saucer.Upp
     400230: //RootNode
-    2100000: Phaser
-    2100002: Escape Pods
-    2100004: 'Sphere,3 #3'
-    2100006: 'Sphere,3 #4'
-    2100008: 'Sphere,3 #5'
-    2100010: Decal Pods
-    2100012: Saucer Dark Hull
-    2100014: Saucer Upper Dec
-    2100016: 'noname,755 #2'
-    2100018: 'noname,755 #3'
-    2100020: 'noname,755 #4'
-    2100022: Hull Mid Grey
-    2100024: Decal Black
-    2100026: Nav Thrusters
-    2100028: noname,656
-    2100030: 'noname,656 #2'
-    2100032: 'noname,656 #3'
-    2100034: 'noname,656 #4'
-    2100036: 'noname,656 #5'
-    2100038: 'noname,15 #3'
-    2100040: 'noname,15 #4'
-    2100042: Sphere,3
-    2100044: 'Sphere,3 #2'
-    2100046: noname,640
-    2100048: 'noname,640 #2'
-    2100050: 'noname,653 #2'
-    2100052: 'noname,653 #3'
-    2100054: 'noname,653 #4'
-    2100056: 'noname,653 #5'
-    2100058: 'noname,653 #6'
-    2100060: noname,648
-    2100062: 'noname,648 #2'
-    2100064: 'noname,648 #3'
-    2100066: Windows
-    2100068: Impulse Plates
-    2100070: Hull Darkest
-    2100072: 'Sphere,6 #2'
-    2100074: 'Sphere,6 #3'
-    2100076: Deck 4
-    2100078: 'noname,750 #2'
-    2100080: 'noname,750 #3'
-    2100082: Dome
-    2100084: Impulse Hull
-    2100086: 'noname,763 #2'
-    2100088: 'noname,763 #3'
-    2100090: 'noname,763 #4'
-    2100092: 'noname,773 #3'
-    2100094: 'noname,773 #4'
-    2100096: Impulse Red
-    2100098: Sphere,42
-    2100100: 'Sphere,42 #2'
-    2100102: 'Sphere,42 #3'
-    2100104: 'Sphere,42 #4'
-    2100106: 'Sphere,42 #5'
-    2100108: 'Sphere,42 #6'
-    2100110: 'Sphere,42 #7'
-    2100112: 'Sphere,42 #8'
-    2100114: 'Sphere,42 #9'
-    2100116: 'Sphere,42 #11'
-    2100118: Deflector
-    2100120: Darkest Hull
-    2100122: Hull Dark Grey
-    2100124: Decal Red
-    2100126: Shuttle Bay Door
-    2100128: Sphere,24
-    2100130: 'Sphere,24 #2'
-    2100132: 'Sphere,24 #3'
-    2100134: Torpedo Hull Pla
-    2100136: noname,678
-    2100138: Nacel Warp Core_
-    2100140: Cylinder
-    2100142: 'Cylinder #2'
-    2100144: noname,665
-    2100146: 'noname,665 #2'
-    2100148: 'noname,665 #3'
-    2100150: Decal Logo
-    2100152: noname,96
-    2100154: 'noname,96 #2'
-    2100156: 'noname,96 #3'
-    2100158: 'noname,96 #4'
-    2100160: Nacel Side Dark_
-    2100162: Nacel Lights
-    2100164: Wing Hull
-    2100166: Warp Dark Blue
-    2100168: Nacel Dark Gray
-    2100170: Warp Light Blue
-    2100172: Upper Coils
-    2100174: Bussard Collecto
-    2100176: Nacel Font Hull
-    2100178: Upper Coils Join
     2300000: Deflector.
     2300002: Deflector0
     2300004: Large.Defl
@@ -670,33 +582,26 @@ ModelImporter:
     4300224: Nacel.Lef2
     4300226: Nacel.Lef1
     4300228: Nacel.Lef0
-  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -704,30 +609,22 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:

@@ -1,36 +1,63 @@
 fileFormatVersion: 2
-guid: 5afe885038b9a4bcfa1368c472adefa8
+guid: 498e1d360e0794e4d9e0b4efcc7c05d5
+timeCreated: 1468653059
+licenseType: Free
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 19
   fileIDToRecycleName:
-    2186277476908879412: ImportLogs
-  externalObjects: {}
+    100000: Cylinder001
+    100002: GeoSphere001
+    100004: Hose001
+    100006: Torus001
+    100008: Torus002
+    100010: Torus003
+    100012: //RootNode
+    400000: Cylinder001
+    400002: GeoSphere001
+    400004: Hose001
+    400006: Torus001
+    400008: Torus002
+    400010: Torus003
+    400012: //RootNode
+    2300000: Cylinder001
+    2300002: GeoSphere001
+    2300004: Hose001
+    2300006: Torus001
+    2300008: Torus002
+    2300010: Torus003
+    3300000: Cylinder001
+    3300002: GeoSphere001
+    3300004: Hose001
+    3300006: Torus001
+    3300008: Torus002
+    3300010: Torus003
+    4300000: Torus001
+    4300002: Cylinder001
+    4300004: GeoSphere001
+    4300006: Hose001
+    4300008: Torus002
+    4300010: Torus003
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 1
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -38,34 +65,25 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -76,10 +94,7 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
-    skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
   humanoidOversampling: 1

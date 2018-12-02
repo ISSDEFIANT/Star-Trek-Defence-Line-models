@@ -1,7 +1,9 @@
 fileFormatVersion: 2
-guid: f225e7e3066c549d2bd2ad4eea3b0e42
+guid: 469f02d65dfff8444a7bc3b29704810b
+timeCreated: 1440505304
+licenseType: Free
 ModelImporter:
-  serializedVersion: 23
+  serializedVersion: 18
   fileIDToRecycleName:
     100000: Box01
     100002: Box010
@@ -2353,55 +2355,6 @@ ModelImporter:
     402344: Tube37
     402346: 'White Bay '
     402348: White Bay0
-    2100000: Regula Hull T1
-    2100002: Regula Parts 1
-    2100004: Regula DTA's
-    2100006: 15 - Default
-    2100008: Regula Hull Text
-    2100010: 'Material #701'
-    2100012: TRAVELPODBLAC1
-    2100014: 'Material #11'
-    2100016: 1 - Default
-    2100018: 'Material #8'
-    2100020: diligentturbinev
-    2100022: 8 - Default
-    2100024: Regula Research_
-    2100026: 'Material #261'
-    2100028: x4
-    2100030: Red Blinker Ligh
-    2100032: Regula Parts Whi
-    2100034: 'Material #70'
-    2100036: 11 - Default
-    2100038: windox
-    2100040: Regula Interior_
-    2100042: 'Material #119'
-    2100044: 'Material #95'
-    2100046: 'Material #86'
-    2100048: x2
-    2100050: Reactor Dome
-    2100052: 'Material #69'
-    2100054: 'Material #59'
-    2100056: Regula Parts Gre
-    2100058: bay temp
-    2100060: Regula Rear Bay_
-    2100062: 'Material #26'
-    2100064: 'Material #120'
-    2100066: Arboretum Interi
-    2100068: 10 - Default
-    2100070: 11 - Default1
-    2100072: Regula Parts 2
-    2100074: Regula Canist3
-    2100076: Regula Canist2
-    2100078: Regula Canisters
-    2100080: x3
-    2100082: Regula Canist1
-    2100084: Regula Bay Light
-    2100086: TRAVELPODBLACK
-    2100088: 'Material #1'
-    2100090: 'Material #24'
-    2100092: x1
-    2100094: x21
-    2100096: x41
     2300000: Box01
     2300002: Box010
     2300004: Box011
@@ -5924,34 +5877,25 @@ ModelImporter:
     4302342: Cylinder51
     4302344: Rectangl32
     4302346: Box90
-    2186277476908879412: ImportLogs
-  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
-    animationRotationError: 0.5
-    animationPositionError: 0.5
-    animationScaleError: 0.5
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -5959,51 +5903,38 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
     importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 3
-    normalCalculationMode: 4
+    tangentImportMode: 1
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
     human: []
     skeleton: []
-    armTwist: 0.5
-    foreArmTwist: 0.5
-    upperLegTwist: 0.5
-    legTwist: 0.5
-    armStretch: 0.05
-    legStretch: 0.05
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
-    hasTranslationDoF: 0
-    hasExtraRoot: 0
-    skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 0
-  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
