@@ -1,0 +1,1210 @@
+fileFormatVersion: 2
+guid: 2209208ab4614a54799c3c7fcf9cbe65
+timeCreated: 1440505288
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: All.Arm.Bottom
+    100002: All.Arm.End
+    100004: All.Arm.Top.Building
+    100006: Arm.Bottom
+    100008: Arm.Bottom 1
+    100010: Arm.Bottom.Dark
+    100012: Arm.Bottom.Dark01
+    100014: Arm.Bottom.Dark02
+    100016: Arm.Bottom.Dark03
+    100018: Arm.Bottom.Dark04
+    100020: Arm.Bottom.Dark05
+    100022: Arm.Bottom.Dark06
+    100024: Arm.Bottom.Dark07
+    100026: Arm.Bottom.Emitters
+    100028: Arm.Bottom.Emitters01
+    100030: Arm.Bottom.Emitters02
+    100032: Arm.Bottom.Emitters03
+    100034: Arm.Bottom.Emitters04
+    100036: Arm.Bottom.Emitters05
+    100038: Arm.Bottom.Emitters06
+    100040: Arm.Bottom.Emitters07
+    100042: Arm.Bottom.End
+    100044: Arm.Bottom01
+    100046: Arm.Bottom02
+    100048: Arm.Bottom03
+    100050: Arm.Bottom04
+    100052: Arm.Bottom05
+    100054: Arm.Bottom06
+    100056: Arm.Bottom07
+    100058: Arm.Bottom08
+    100060: Arm.Bottom09
+    100062: Arm.Bottom10
+    100064: Arm.Bottom11
+    100066: Arm.Bottom12
+    100068: Arm.Bottom13
+    100070: Arm.Bottom14
+    100072: Arm.End
+    100074: Arm.End 1
+    100076: Arm.End.Dark
+    100078: Arm.End.Dark01
+    100080: Arm.End.Dark02
+    100082: Arm.End.Dark03
+    100084: Arm.End.Dark04
+    100086: Arm.End.Dark05
+    100088: Arm.End.Dark06
+    100090: Arm.End.Dark07
+    100092: Arm.End01
+    100094: Arm.End02
+    100096: Arm.End03
+    100098: Arm.End04
+    100100: Arm.End05
+    100102: Arm.End06
+    100104: Arm.End07
+    100106: Arm.End08
+    100108: Arm.End09
+    100110: Arm.End10
+    100112: Arm.End11
+    100114: Arm.End12
+    100116: Arm.End13
+    100118: Arm.End14
+    100120: Arm.Internal.Attach
+    100122: Arm.Top
+    100124: Arm.Top.Building
+    100126: Arm.Top.Building 1
+    100128: Arm.Top.Building.Dark
+    100130: Arm.Top.Building.Dark01
+    100132: Arm.Top.Building.Dark02
+    100134: Arm.Top.Building.Dark03
+    100136: Arm.Top.Building.Dark04
+    100138: Arm.Top.Building.Dark05
+    100140: Arm.Top.Building.Dark06
+    100142: Arm.Top.Building.Dark07
+    100144: Arm.Top.Building.Windows
+    100146: Arm.Top.Building.Windows01
+    100148: Arm.Top.Building.Windows02
+    100150: Arm.Top.Building.Windows03
+    100152: Arm.Top.Building.Windows04
+    100154: Arm.Top.Building.Windows05
+    100156: Arm.Top.Building.Windows06
+    100158: Arm.Top.Building.Windows07
+    100160: Arm.Top.Building01
+    100162: Arm.Top.Building02
+    100164: Arm.Top.Building03
+    100166: Arm.Top.Building04
+    100168: Arm.Top.Building05
+    100170: Arm.Top.Building06
+    100172: Arm.Top.Building07
+    100174: Arm.Top.Building08
+    100176: Arm.Top.Building09
+    100178: Arm.Top.Building10
+    100180: Arm.Top.Building11
+    100182: Arm.Top.Building12
+    100184: Arm.Top.Building13
+    100186: Arm.Top.Building14
+    100188: BACK
+    100190: BACK.Target
+    100192: Camera01
+    100194: Camera01.Target
+    100196: Camera02
+    100198: Camera02.Target
+    100200: Camera03
+    100202: Camera03.Target
+    100204: Chassis
+    100206: Chassis.Angle
+    100208: Chassis.Angle 1
+    100210: Chassis.Angle.Dark
+    100212: Chassis.Angle.Dark01
+    100214: Chassis.Angle.Dark02
+    100216: Chassis.Angle.Dark03
+    100218: Chassis.Angle.Windows
+    100220: Chassis.Angle.Windows01
+    100222: Chassis.Angle.Windows02
+    100224: Chassis.Angle.Windows03
+    100226: Chassis.Angle01
+    100228: Chassis.Angle02
+    100230: Chassis.Angle03
+    100232: Chassis.Angle04
+    100234: Chassis.Angle05
+    100236: Chassis.Angle06
+    100238: Chassis.Section
+    100240: Chassis.Section 1
+    100242: Chassis.Section.Dark
+    100244: Chassis.Section.Dark01
+    100246: Chassis.Section.Dark02
+    100248: Chassis.Section.Dark03
+    100250: Chassis.Section.Windows
+    100252: Chassis.Section.Windows01
+    100254: Chassis.Section.Windows02
+    100256: Chassis.Section.Windows03
+    100258: Chassis.Section01
+    100260: Chassis.Section02
+    100262: Chassis.Section03
+    100264: Chassis.Section04
+    100266: Chassis.Section05
+    100268: Chassis.Section06
+    100270: Connect.Modul.A
+    100272: Connect.Modul.A 1
+    100274: Connect.Modul.A.Dark
+    100276: Connect.Modul.B
+    100278: Connect.Modul.B 1
+    100280: Connect.Modul.B.Dark
+    100282: Connect.Modul.B.Light.Detail
+    100284: Connect.Modul.B.Windows
+    100286: Environnement
+    100288: FILL
+    100290: FILL.Target
+    100292: KEY
+    100294: KEY.Target
+    100296: Left.A.Arm.Bottom.End
+    100298: Left.A.Arm.Bottom.End 1
+    100300: Left.A.Arm.Bottom.End.Dark
+    100302: Left.A.Arm.Bottom.End.Emitters
+    100304: Left.A.Arm.Bottom.End.H.Emitters
+    100306: Left.A.Arm.Top
+    100308: Left.A.Arm.Top 1
+    100310: Left.A.Arm.Top.Dark
+    100312: Left.A.Arm.Top.Lights
+    100314: Left.A.Arm.Top.Pos.Lights
+    100316: Left.B.Arm.Bottom.End
+    100318: Left.B.Arm.Bottom.End 1
+    100320: Left.B.Arm.Bottom.End.Dark
+    100322: Left.B.Arm.Bottom.End.Emitters
+    100324: Left.B.Arm.Bottom.End.H.Emitters
+    100326: Left.B.Arm.Top
+    100328: Left.B.Arm.Top 1
+    100330: Left.B.Arm.Top.Dark
+    100332: Left.B.Arm.Top.Lights
+    100334: Left.B.Arm.Top.Pos.Lights
+    100336: Left.C.Arm.Bottom.End
+    100338: Left.C.Arm.Bottom.End 1
+    100340: Left.C.Arm.Bottom.End.Dark
+    100342: Left.C.Arm.Bottom.End.Emitters
+    100344: Left.C.Arm.Bottom.End.H.Emitters
+    100346: Left.C.Arm.Top
+    100348: Left.C.Arm.Top 1
+    100350: Left.C.Arm.Top.Dark
+    100352: Left.C.Arm.Top.Lights
+    100354: Left.C.Arm.Top.Pos.Lights
+    100356: Left.D.Arm.Bottom.End
+    100358: Left.D.Arm.Bottom.End 1
+    100360: Left.D.Arm.Bottom.End.Dark
+    100362: Left.D.Arm.Bottom.End.Emitters
+    100364: Left.D.Arm.Bottom.End.H.Emitters
+    100366: Left.D.Arm.Top
+    100368: Left.D.Arm.Top 1
+    100370: Left.D.Arm.Top.Dark
+    100372: Left.D.Arm.Top.Lights
+    100374: Left.D.Arm.Top.Pos.Lights
+    100376: Left.F.Arm.Internal.Attach
+    100378: Left.F.Arm.Internal.Attach 1
+    100380: Left.F.Arm.Internal.Attach.Dark
+    100382: Left.R.Arm.Internal.Attach
+    100384: Left.R.Arm.Internal.Attach 1
+    100386: Left.R.Arm.Internal.Attach.Dark
+    100388: //RootNode
+    100390: Omni01
+    100392: Omni02
+    100394: Omni03
+    100396: Omni04
+    100398: Omni05
+    100400: Omni06
+    100402: Omni07
+    100404: Omni08
+    100406: Omni09
+    100408: Omni10
+    100410: Omni11
+    100412: Omni12
+    100414: Omni13
+    100416: Omni14
+    100418: Omni15
+    100420: Omni16
+    100422: Omni17
+    100424: Omni18
+    100426: Omni19
+    100428: Omni20
+    100430: Omni21
+    100432: Omni22
+    100434: Omni23
+    100436: Omni24
+    100438: Omni25
+    100440: Omni26
+    100442: Omni27
+    100444: Omni28
+    100446: Omni29
+    100448: Omni30
+    100450: Omni31
+    100452: Omni32
+    100454: Omni33
+    100456: Omni34
+    100458: Omni35
+    100460: Omni36
+    100462: Omni37
+    100464: Omni38
+    100466: Omni39
+    100468: Omni40
+    100470: Omni41
+    100472: Omni42
+    100474: Omni43
+    100476: Omni44
+    100478: Omni45
+    100480: Omni46
+    100482: Omni47
+    100484: Omni48
+    100486: Omni49
+    100488: Omni50
+    100490: Omni51
+    100492: Omni52
+    100494: Pos.Lights
+    100496: Right.A.Arm.Bottom.End
+    100498: Right.A.Arm.Bottom.End 1
+    100500: Right.A.Arm.Bottom.End.Dark
+    100502: Right.A.Arm.Bottom.End.Emitters
+    100504: Right.A.Arm.Bottom.End.H.Emitters
+    100506: Right.A.Arm.Top
+    100508: Right.A.Arm.Top 1
+    100510: Right.A.Arm.Top.Dark
+    100512: Right.A.Arm.Top.Lights
+    100514: Right.A.Arm.Top.Pos.Lights
+    100516: Right.B.Arm.Bottom.End
+    100518: Right.B.Arm.Bottom.End 1
+    100520: Right.B.Arm.Bottom.End.Dark
+    100522: Right.B.Arm.Bottom.End.Emitters
+    100524: Right.B.Arm.Bottom.End.H.Emitters
+    100526: Right.B.Arm.Top
+    100528: Right.B.Arm.Top 1
+    100530: Right.B.Arm.Top.Dark
+    100532: Right.B.Arm.Top.Lights
+    100534: Right.B.Arm.Top.Pos.Lights
+    100536: Right.C.Arm.Bottom.End
+    100538: Right.C.Arm.Bottom.End 1
+    100540: Right.C.Arm.Bottom.End.Dark
+    100542: Right.C.Arm.Bottom.End.Emitters
+    100544: Right.C.Arm.Bottom.End.H.Emitters
+    100546: Right.C.Arm.Top
+    100548: Right.C.Arm.Top 1
+    100550: Right.C.Arm.Top.Dark
+    100552: Right.C.Arm.Top.Lights
+    100554: Right.C.Arm.Top.Pos.Lights
+    100556: Right.D.Arm.Bottom.End
+    100558: Right.D.Arm.Bottom.End 1
+    100560: Right.D.Arm.Bottom.End.Dark
+    100562: Right.D.Arm.Bottom.End.Emitters
+    100564: Right.D.Arm.Bottom.End.H.Emitters
+    100566: Right.D.Arm.Top
+    100568: Right.D.Arm.Top 1
+    100570: Right.D.Arm.Top.Dark
+    100572: Right.D.Arm.Top.Lights
+    100574: Right.D.Arm.Top.Pos.Lights
+    100576: Right.F.Arm.Internal.Attach
+    100578: Right.F.Arm.Internal.Attach 1
+    100580: Right.F.Arm.Internal.Attach.Dark
+    100582: Right.R.Arm.Internal.Attach
+    100584: Right.R.Arm.Internal.Attach 1
+    100586: Right.R.Arm.Internal.Attach.Dark
+    100588: Spot01
+    100590: Spot01.Target
+    100592: Spot02
+    100594: Spot02.Target
+    400000: All.Arm.Bottom
+    400002: All.Arm.End
+    400004: All.Arm.Top.Building
+    400006: Arm.Bottom
+    400008: Arm.Bottom 1
+    400010: Arm.Bottom.Dark
+    400012: Arm.Bottom.Dark01
+    400014: Arm.Bottom.Dark02
+    400016: Arm.Bottom.Dark03
+    400018: Arm.Bottom.Dark04
+    400020: Arm.Bottom.Dark05
+    400022: Arm.Bottom.Dark06
+    400024: Arm.Bottom.Dark07
+    400026: Arm.Bottom.Emitters
+    400028: Arm.Bottom.Emitters01
+    400030: Arm.Bottom.Emitters02
+    400032: Arm.Bottom.Emitters03
+    400034: Arm.Bottom.Emitters04
+    400036: Arm.Bottom.Emitters05
+    400038: Arm.Bottom.Emitters06
+    400040: Arm.Bottom.Emitters07
+    400042: Arm.Bottom.End
+    400044: Arm.Bottom01
+    400046: Arm.Bottom02
+    400048: Arm.Bottom03
+    400050: Arm.Bottom04
+    400052: Arm.Bottom05
+    400054: Arm.Bottom06
+    400056: Arm.Bottom07
+    400058: Arm.Bottom08
+    400060: Arm.Bottom09
+    400062: Arm.Bottom10
+    400064: Arm.Bottom11
+    400066: Arm.Bottom12
+    400068: Arm.Bottom13
+    400070: Arm.Bottom14
+    400072: Arm.End
+    400074: Arm.End 1
+    400076: Arm.End.Dark
+    400078: Arm.End.Dark01
+    400080: Arm.End.Dark02
+    400082: Arm.End.Dark03
+    400084: Arm.End.Dark04
+    400086: Arm.End.Dark05
+    400088: Arm.End.Dark06
+    400090: Arm.End.Dark07
+    400092: Arm.End01
+    400094: Arm.End02
+    400096: Arm.End03
+    400098: Arm.End04
+    400100: Arm.End05
+    400102: Arm.End06
+    400104: Arm.End07
+    400106: Arm.End08
+    400108: Arm.End09
+    400110: Arm.End10
+    400112: Arm.End11
+    400114: Arm.End12
+    400116: Arm.End13
+    400118: Arm.End14
+    400120: Arm.Internal.Attach
+    400122: Arm.Top
+    400124: Arm.Top.Building
+    400126: Arm.Top.Building 1
+    400128: Arm.Top.Building.Dark
+    400130: Arm.Top.Building.Dark01
+    400132: Arm.Top.Building.Dark02
+    400134: Arm.Top.Building.Dark03
+    400136: Arm.Top.Building.Dark04
+    400138: Arm.Top.Building.Dark05
+    400140: Arm.Top.Building.Dark06
+    400142: Arm.Top.Building.Dark07
+    400144: Arm.Top.Building.Windows
+    400146: Arm.Top.Building.Windows01
+    400148: Arm.Top.Building.Windows02
+    400150: Arm.Top.Building.Windows03
+    400152: Arm.Top.Building.Windows04
+    400154: Arm.Top.Building.Windows05
+    400156: Arm.Top.Building.Windows06
+    400158: Arm.Top.Building.Windows07
+    400160: Arm.Top.Building01
+    400162: Arm.Top.Building02
+    400164: Arm.Top.Building03
+    400166: Arm.Top.Building04
+    400168: Arm.Top.Building05
+    400170: Arm.Top.Building06
+    400172: Arm.Top.Building07
+    400174: Arm.Top.Building08
+    400176: Arm.Top.Building09
+    400178: Arm.Top.Building10
+    400180: Arm.Top.Building11
+    400182: Arm.Top.Building12
+    400184: Arm.Top.Building13
+    400186: Arm.Top.Building14
+    400188: BACK
+    400190: BACK.Target
+    400192: Camera01
+    400194: Camera01.Target
+    400196: Camera02
+    400198: Camera02.Target
+    400200: Camera03
+    400202: Camera03.Target
+    400204: Chassis
+    400206: Chassis.Angle
+    400208: Chassis.Angle 1
+    400210: Chassis.Angle.Dark
+    400212: Chassis.Angle.Dark01
+    400214: Chassis.Angle.Dark02
+    400216: Chassis.Angle.Dark03
+    400218: Chassis.Angle.Windows
+    400220: Chassis.Angle.Windows01
+    400222: Chassis.Angle.Windows02
+    400224: Chassis.Angle.Windows03
+    400226: Chassis.Angle01
+    400228: Chassis.Angle02
+    400230: Chassis.Angle03
+    400232: Chassis.Angle04
+    400234: Chassis.Angle05
+    400236: Chassis.Angle06
+    400238: Chassis.Section
+    400240: Chassis.Section 1
+    400242: Chassis.Section.Dark
+    400244: Chassis.Section.Dark01
+    400246: Chassis.Section.Dark02
+    400248: Chassis.Section.Dark03
+    400250: Chassis.Section.Windows
+    400252: Chassis.Section.Windows01
+    400254: Chassis.Section.Windows02
+    400256: Chassis.Section.Windows03
+    400258: Chassis.Section01
+    400260: Chassis.Section02
+    400262: Chassis.Section03
+    400264: Chassis.Section04
+    400266: Chassis.Section05
+    400268: Chassis.Section06
+    400270: Connect.Modul.A
+    400272: Connect.Modul.A 1
+    400274: Connect.Modul.A.Dark
+    400276: Connect.Modul.B
+    400278: Connect.Modul.B 1
+    400280: Connect.Modul.B.Dark
+    400282: Connect.Modul.B.Light.Detail
+    400284: Connect.Modul.B.Windows
+    400286: Environnement
+    400288: FILL
+    400290: FILL.Target
+    400292: KEY
+    400294: KEY.Target
+    400296: Left.A.Arm.Bottom.End
+    400298: Left.A.Arm.Bottom.End 1
+    400300: Left.A.Arm.Bottom.End.Dark
+    400302: Left.A.Arm.Bottom.End.Emitters
+    400304: Left.A.Arm.Bottom.End.H.Emitters
+    400306: Left.A.Arm.Top
+    400308: Left.A.Arm.Top 1
+    400310: Left.A.Arm.Top.Dark
+    400312: Left.A.Arm.Top.Lights
+    400314: Left.A.Arm.Top.Pos.Lights
+    400316: Left.B.Arm.Bottom.End
+    400318: Left.B.Arm.Bottom.End 1
+    400320: Left.B.Arm.Bottom.End.Dark
+    400322: Left.B.Arm.Bottom.End.Emitters
+    400324: Left.B.Arm.Bottom.End.H.Emitters
+    400326: Left.B.Arm.Top
+    400328: Left.B.Arm.Top 1
+    400330: Left.B.Arm.Top.Dark
+    400332: Left.B.Arm.Top.Lights
+    400334: Left.B.Arm.Top.Pos.Lights
+    400336: Left.C.Arm.Bottom.End
+    400338: Left.C.Arm.Bottom.End 1
+    400340: Left.C.Arm.Bottom.End.Dark
+    400342: Left.C.Arm.Bottom.End.Emitters
+    400344: Left.C.Arm.Bottom.End.H.Emitters
+    400346: Left.C.Arm.Top
+    400348: Left.C.Arm.Top 1
+    400350: Left.C.Arm.Top.Dark
+    400352: Left.C.Arm.Top.Lights
+    400354: Left.C.Arm.Top.Pos.Lights
+    400356: Left.D.Arm.Bottom.End
+    400358: Left.D.Arm.Bottom.End 1
+    400360: Left.D.Arm.Bottom.End.Dark
+    400362: Left.D.Arm.Bottom.End.Emitters
+    400364: Left.D.Arm.Bottom.End.H.Emitters
+    400366: Left.D.Arm.Top
+    400368: Left.D.Arm.Top 1
+    400370: Left.D.Arm.Top.Dark
+    400372: Left.D.Arm.Top.Lights
+    400374: Left.D.Arm.Top.Pos.Lights
+    400376: Left.F.Arm.Internal.Attach
+    400378: Left.F.Arm.Internal.Attach 1
+    400380: Left.F.Arm.Internal.Attach.Dark
+    400382: Left.R.Arm.Internal.Attach
+    400384: Left.R.Arm.Internal.Attach 1
+    400386: Left.R.Arm.Internal.Attach.Dark
+    400388: //RootNode
+    400390: Omni01
+    400392: Omni02
+    400394: Omni03
+    400396: Omni04
+    400398: Omni05
+    400400: Omni06
+    400402: Omni07
+    400404: Omni08
+    400406: Omni09
+    400408: Omni10
+    400410: Omni11
+    400412: Omni12
+    400414: Omni13
+    400416: Omni14
+    400418: Omni15
+    400420: Omni16
+    400422: Omni17
+    400424: Omni18
+    400426: Omni19
+    400428: Omni20
+    400430: Omni21
+    400432: Omni22
+    400434: Omni23
+    400436: Omni24
+    400438: Omni25
+    400440: Omni26
+    400442: Omni27
+    400444: Omni28
+    400446: Omni29
+    400448: Omni30
+    400450: Omni31
+    400452: Omni32
+    400454: Omni33
+    400456: Omni34
+    400458: Omni35
+    400460: Omni36
+    400462: Omni37
+    400464: Omni38
+    400466: Omni39
+    400468: Omni40
+    400470: Omni41
+    400472: Omni42
+    400474: Omni43
+    400476: Omni44
+    400478: Omni45
+    400480: Omni46
+    400482: Omni47
+    400484: Omni48
+    400486: Omni49
+    400488: Omni50
+    400490: Omni51
+    400492: Omni52
+    400494: Pos.Lights
+    400496: Right.A.Arm.Bottom.End
+    400498: Right.A.Arm.Bottom.End 1
+    400500: Right.A.Arm.Bottom.End.Dark
+    400502: Right.A.Arm.Bottom.End.Emitters
+    400504: Right.A.Arm.Bottom.End.H.Emitters
+    400506: Right.A.Arm.Top
+    400508: Right.A.Arm.Top 1
+    400510: Right.A.Arm.Top.Dark
+    400512: Right.A.Arm.Top.Lights
+    400514: Right.A.Arm.Top.Pos.Lights
+    400516: Right.B.Arm.Bottom.End
+    400518: Right.B.Arm.Bottom.End 1
+    400520: Right.B.Arm.Bottom.End.Dark
+    400522: Right.B.Arm.Bottom.End.Emitters
+    400524: Right.B.Arm.Bottom.End.H.Emitters
+    400526: Right.B.Arm.Top
+    400528: Right.B.Arm.Top 1
+    400530: Right.B.Arm.Top.Dark
+    400532: Right.B.Arm.Top.Lights
+    400534: Right.B.Arm.Top.Pos.Lights
+    400536: Right.C.Arm.Bottom.End
+    400538: Right.C.Arm.Bottom.End 1
+    400540: Right.C.Arm.Bottom.End.Dark
+    400542: Right.C.Arm.Bottom.End.Emitters
+    400544: Right.C.Arm.Bottom.End.H.Emitters
+    400546: Right.C.Arm.Top
+    400548: Right.C.Arm.Top 1
+    400550: Right.C.Arm.Top.Dark
+    400552: Right.C.Arm.Top.Lights
+    400554: Right.C.Arm.Top.Pos.Lights
+    400556: Right.D.Arm.Bottom.End
+    400558: Right.D.Arm.Bottom.End 1
+    400560: Right.D.Arm.Bottom.End.Dark
+    400562: Right.D.Arm.Bottom.End.Emitters
+    400564: Right.D.Arm.Bottom.End.H.Emitters
+    400566: Right.D.Arm.Top
+    400568: Right.D.Arm.Top 1
+    400570: Right.D.Arm.Top.Dark
+    400572: Right.D.Arm.Top.Lights
+    400574: Right.D.Arm.Top.Pos.Lights
+    400576: Right.F.Arm.Internal.Attach
+    400578: Right.F.Arm.Internal.Attach 1
+    400580: Right.F.Arm.Internal.Attach.Dark
+    400582: Right.R.Arm.Internal.Attach
+    400584: Right.R.Arm.Internal.Attach 1
+    400586: Right.R.Arm.Internal.Attach.Dark
+    400588: Spot01
+    400590: Spot01.Target
+    400592: Spot02
+    400594: Spot02.Target
+    2300000: Arm.Bottom 1
+    2300002: Arm.Bottom.Dark
+    2300004: Arm.Bottom.Dark01
+    2300006: Arm.Bottom.Dark02
+    2300008: Arm.Bottom.Dark03
+    2300010: Arm.Bottom.Dark04
+    2300012: Arm.Bottom.Dark05
+    2300014: Arm.Bottom.Dark06
+    2300016: Arm.Bottom.Dark07
+    2300018: Arm.Bottom.Emitters
+    2300020: Arm.Bottom.Emitters01
+    2300022: Arm.Bottom.Emitters02
+    2300024: Arm.Bottom.Emitters03
+    2300026: Arm.Bottom.Emitters04
+    2300028: Arm.Bottom.Emitters05
+    2300030: Arm.Bottom.Emitters06
+    2300032: Arm.Bottom.Emitters07
+    2300034: Arm.Bottom02
+    2300036: Arm.Bottom04
+    2300038: Arm.Bottom06
+    2300040: Arm.Bottom08
+    2300042: Arm.Bottom10
+    2300044: Arm.Bottom12
+    2300046: Arm.Bottom14
+    2300048: Arm.End 1
+    2300050: Arm.End.Dark
+    2300052: Arm.End.Dark01
+    2300054: Arm.End.Dark02
+    2300056: Arm.End.Dark03
+    2300058: Arm.End.Dark04
+    2300060: Arm.End.Dark05
+    2300062: Arm.End.Dark06
+    2300064: Arm.End.Dark07
+    2300066: Arm.End02
+    2300068: Arm.End04
+    2300070: Arm.End06
+    2300072: Arm.End08
+    2300074: Arm.End10
+    2300076: Arm.End12
+    2300078: Arm.End14
+    2300080: Arm.Top.Building 1
+    2300082: Arm.Top.Building.Dark
+    2300084: Arm.Top.Building.Dark01
+    2300086: Arm.Top.Building.Dark02
+    2300088: Arm.Top.Building.Dark03
+    2300090: Arm.Top.Building.Dark04
+    2300092: Arm.Top.Building.Dark05
+    2300094: Arm.Top.Building.Dark06
+    2300096: Arm.Top.Building.Dark07
+    2300098: Arm.Top.Building.Windows
+    2300100: Arm.Top.Building.Windows01
+    2300102: Arm.Top.Building.Windows02
+    2300104: Arm.Top.Building.Windows03
+    2300106: Arm.Top.Building.Windows04
+    2300108: Arm.Top.Building.Windows05
+    2300110: Arm.Top.Building.Windows06
+    2300112: Arm.Top.Building.Windows07
+    2300114: Arm.Top.Building01
+    2300116: Arm.Top.Building03
+    2300118: Arm.Top.Building06
+    2300120: Arm.Top.Building07
+    2300122: Arm.Top.Building10
+    2300124: Arm.Top.Building11
+    2300126: Arm.Top.Building13
+    2300128: Chassis.Angle 1
+    2300130: Chassis.Angle.Dark
+    2300132: Chassis.Angle.Dark01
+    2300134: Chassis.Angle.Dark02
+    2300136: Chassis.Angle.Dark03
+    2300138: Chassis.Angle.Windows
+    2300140: Chassis.Angle.Windows01
+    2300142: Chassis.Angle.Windows02
+    2300144: Chassis.Angle.Windows03
+    2300146: Chassis.Angle02
+    2300148: Chassis.Angle03
+    2300150: Chassis.Angle04
+    2300152: Chassis.Section 1
+    2300154: Chassis.Section.Dark
+    2300156: Chassis.Section.Dark01
+    2300158: Chassis.Section.Dark02
+    2300160: Chassis.Section.Dark03
+    2300162: Chassis.Section.Windows
+    2300164: Chassis.Section.Windows01
+    2300166: Chassis.Section.Windows02
+    2300168: Chassis.Section.Windows03
+    2300170: Chassis.Section01
+    2300172: Chassis.Section03
+    2300174: Chassis.Section05
+    2300176: Connect.Modul.A 1
+    2300178: Connect.Modul.A.Dark
+    2300180: Connect.Modul.B 1
+    2300182: Connect.Modul.B.Dark
+    2300184: Connect.Modul.B.Light.Detail
+    2300186: Connect.Modul.B.Windows
+    2300188: Left.A.Arm.Bottom.End 1
+    2300190: Left.A.Arm.Bottom.End.Dark
+    2300192: Left.A.Arm.Bottom.End.Emitters
+    2300194: Left.A.Arm.Bottom.End.H.Emitters
+    2300196: Left.A.Arm.Top 1
+    2300198: Left.A.Arm.Top.Dark
+    2300200: Left.A.Arm.Top.Lights
+    2300202: Left.A.Arm.Top.Pos.Lights
+    2300204: Left.B.Arm.Bottom.End 1
+    2300206: Left.B.Arm.Bottom.End.Dark
+    2300208: Left.B.Arm.Bottom.End.Emitters
+    2300210: Left.B.Arm.Bottom.End.H.Emitters
+    2300212: Left.B.Arm.Top 1
+    2300214: Left.B.Arm.Top.Dark
+    2300216: Left.B.Arm.Top.Lights
+    2300218: Left.B.Arm.Top.Pos.Lights
+    2300220: Left.C.Arm.Bottom.End 1
+    2300222: Left.C.Arm.Bottom.End.Dark
+    2300224: Left.C.Arm.Bottom.End.Emitters
+    2300226: Left.C.Arm.Bottom.End.H.Emitters
+    2300228: Left.C.Arm.Top 1
+    2300230: Left.C.Arm.Top.Dark
+    2300232: Left.C.Arm.Top.Lights
+    2300234: Left.C.Arm.Top.Pos.Lights
+    2300236: Left.D.Arm.Bottom.End 1
+    2300238: Left.D.Arm.Bottom.End.Dark
+    2300240: Left.D.Arm.Bottom.End.Emitters
+    2300242: Left.D.Arm.Bottom.End.H.Emitters
+    2300244: Left.D.Arm.Top 1
+    2300246: Left.D.Arm.Top.Dark
+    2300248: Left.D.Arm.Top.Lights
+    2300250: Left.D.Arm.Top.Pos.Lights
+    2300252: Left.F.Arm.Internal.Attach 1
+    2300254: Left.F.Arm.Internal.Attach.Dark
+    2300256: Left.R.Arm.Internal.Attach 1
+    2300258: Left.R.Arm.Internal.Attach.Dark
+    2300260: Right.A.Arm.Bottom.End 1
+    2300262: Right.A.Arm.Bottom.End.Dark
+    2300264: Right.A.Arm.Bottom.End.Emitters
+    2300266: Right.A.Arm.Bottom.End.H.Emitters
+    2300268: Right.A.Arm.Top 1
+    2300270: Right.A.Arm.Top.Dark
+    2300272: Right.A.Arm.Top.Lights
+    2300274: Right.A.Arm.Top.Pos.Lights
+    2300276: Right.B.Arm.Bottom.End 1
+    2300278: Right.B.Arm.Bottom.End.Dark
+    2300280: Right.B.Arm.Bottom.End.Emitters
+    2300282: Right.B.Arm.Bottom.End.H.Emitters
+    2300284: Right.B.Arm.Top 1
+    2300286: Right.B.Arm.Top.Dark
+    2300288: Right.B.Arm.Top.Lights
+    2300290: Right.B.Arm.Top.Pos.Lights
+    2300292: Right.C.Arm.Bottom.End 1
+    2300294: Right.C.Arm.Bottom.End.Dark
+    2300296: Right.C.Arm.Bottom.End.Emitters
+    2300298: Right.C.Arm.Bottom.End.H.Emitters
+    2300300: Right.C.Arm.Top 1
+    2300302: Right.C.Arm.Top.Dark
+    2300304: Right.C.Arm.Top.Lights
+    2300306: Right.C.Arm.Top.Pos.Lights
+    2300308: Right.D.Arm.Bottom.End 1
+    2300310: Right.D.Arm.Bottom.End.Dark
+    2300312: Right.D.Arm.Bottom.End.Emitters
+    2300314: Right.D.Arm.Bottom.End.H.Emitters
+    2300316: Right.D.Arm.Top 1
+    2300318: Right.D.Arm.Top.Dark
+    2300320: Right.D.Arm.Top.Lights
+    2300322: Right.D.Arm.Top.Pos.Lights
+    2300324: Right.F.Arm.Internal.Attach 1
+    2300326: Right.F.Arm.Internal.Attach.Dark
+    2300328: Right.R.Arm.Internal.Attach 1
+    2300330: Right.R.Arm.Internal.Attach.Dark
+    3300000: Arm.Bottom 1
+    3300002: Arm.Bottom.Dark
+    3300004: Arm.Bottom.Dark01
+    3300006: Arm.Bottom.Dark02
+    3300008: Arm.Bottom.Dark03
+    3300010: Arm.Bottom.Dark04
+    3300012: Arm.Bottom.Dark05
+    3300014: Arm.Bottom.Dark06
+    3300016: Arm.Bottom.Dark07
+    3300018: Arm.Bottom.Emitters
+    3300020: Arm.Bottom.Emitters01
+    3300022: Arm.Bottom.Emitters02
+    3300024: Arm.Bottom.Emitters03
+    3300026: Arm.Bottom.Emitters04
+    3300028: Arm.Bottom.Emitters05
+    3300030: Arm.Bottom.Emitters06
+    3300032: Arm.Bottom.Emitters07
+    3300034: Arm.Bottom02
+    3300036: Arm.Bottom04
+    3300038: Arm.Bottom06
+    3300040: Arm.Bottom08
+    3300042: Arm.Bottom10
+    3300044: Arm.Bottom12
+    3300046: Arm.Bottom14
+    3300048: Arm.End 1
+    3300050: Arm.End.Dark
+    3300052: Arm.End.Dark01
+    3300054: Arm.End.Dark02
+    3300056: Arm.End.Dark03
+    3300058: Arm.End.Dark04
+    3300060: Arm.End.Dark05
+    3300062: Arm.End.Dark06
+    3300064: Arm.End.Dark07
+    3300066: Arm.End02
+    3300068: Arm.End04
+    3300070: Arm.End06
+    3300072: Arm.End08
+    3300074: Arm.End10
+    3300076: Arm.End12
+    3300078: Arm.End14
+    3300080: Arm.Top.Building 1
+    3300082: Arm.Top.Building.Dark
+    3300084: Arm.Top.Building.Dark01
+    3300086: Arm.Top.Building.Dark02
+    3300088: Arm.Top.Building.Dark03
+    3300090: Arm.Top.Building.Dark04
+    3300092: Arm.Top.Building.Dark05
+    3300094: Arm.Top.Building.Dark06
+    3300096: Arm.Top.Building.Dark07
+    3300098: Arm.Top.Building.Windows
+    3300100: Arm.Top.Building.Windows01
+    3300102: Arm.Top.Building.Windows02
+    3300104: Arm.Top.Building.Windows03
+    3300106: Arm.Top.Building.Windows04
+    3300108: Arm.Top.Building.Windows05
+    3300110: Arm.Top.Building.Windows06
+    3300112: Arm.Top.Building.Windows07
+    3300114: Arm.Top.Building01
+    3300116: Arm.Top.Building03
+    3300118: Arm.Top.Building06
+    3300120: Arm.Top.Building07
+    3300122: Arm.Top.Building10
+    3300124: Arm.Top.Building11
+    3300126: Arm.Top.Building13
+    3300128: Chassis.Angle 1
+    3300130: Chassis.Angle.Dark
+    3300132: Chassis.Angle.Dark01
+    3300134: Chassis.Angle.Dark02
+    3300136: Chassis.Angle.Dark03
+    3300138: Chassis.Angle.Windows
+    3300140: Chassis.Angle.Windows01
+    3300142: Chassis.Angle.Windows02
+    3300144: Chassis.Angle.Windows03
+    3300146: Chassis.Angle02
+    3300148: Chassis.Angle03
+    3300150: Chassis.Angle04
+    3300152: Chassis.Section 1
+    3300154: Chassis.Section.Dark
+    3300156: Chassis.Section.Dark01
+    3300158: Chassis.Section.Dark02
+    3300160: Chassis.Section.Dark03
+    3300162: Chassis.Section.Windows
+    3300164: Chassis.Section.Windows01
+    3300166: Chassis.Section.Windows02
+    3300168: Chassis.Section.Windows03
+    3300170: Chassis.Section01
+    3300172: Chassis.Section03
+    3300174: Chassis.Section05
+    3300176: Connect.Modul.A 1
+    3300178: Connect.Modul.A.Dark
+    3300180: Connect.Modul.B 1
+    3300182: Connect.Modul.B.Dark
+    3300184: Connect.Modul.B.Light.Detail
+    3300186: Connect.Modul.B.Windows
+    3300188: Left.A.Arm.Bottom.End 1
+    3300190: Left.A.Arm.Bottom.End.Dark
+    3300192: Left.A.Arm.Bottom.End.Emitters
+    3300194: Left.A.Arm.Bottom.End.H.Emitters
+    3300196: Left.A.Arm.Top 1
+    3300198: Left.A.Arm.Top.Dark
+    3300200: Left.A.Arm.Top.Lights
+    3300202: Left.A.Arm.Top.Pos.Lights
+    3300204: Left.B.Arm.Bottom.End 1
+    3300206: Left.B.Arm.Bottom.End.Dark
+    3300208: Left.B.Arm.Bottom.End.Emitters
+    3300210: Left.B.Arm.Bottom.End.H.Emitters
+    3300212: Left.B.Arm.Top 1
+    3300214: Left.B.Arm.Top.Dark
+    3300216: Left.B.Arm.Top.Lights
+    3300218: Left.B.Arm.Top.Pos.Lights
+    3300220: Left.C.Arm.Bottom.End 1
+    3300222: Left.C.Arm.Bottom.End.Dark
+    3300224: Left.C.Arm.Bottom.End.Emitters
+    3300226: Left.C.Arm.Bottom.End.H.Emitters
+    3300228: Left.C.Arm.Top 1
+    3300230: Left.C.Arm.Top.Dark
+    3300232: Left.C.Arm.Top.Lights
+    3300234: Left.C.Arm.Top.Pos.Lights
+    3300236: Left.D.Arm.Bottom.End 1
+    3300238: Left.D.Arm.Bottom.End.Dark
+    3300240: Left.D.Arm.Bottom.End.Emitters
+    3300242: Left.D.Arm.Bottom.End.H.Emitters
+    3300244: Left.D.Arm.Top 1
+    3300246: Left.D.Arm.Top.Dark
+    3300248: Left.D.Arm.Top.Lights
+    3300250: Left.D.Arm.Top.Pos.Lights
+    3300252: Left.F.Arm.Internal.Attach 1
+    3300254: Left.F.Arm.Internal.Attach.Dark
+    3300256: Left.R.Arm.Internal.Attach 1
+    3300258: Left.R.Arm.Internal.Attach.Dark
+    3300260: Right.A.Arm.Bottom.End 1
+    3300262: Right.A.Arm.Bottom.End.Dark
+    3300264: Right.A.Arm.Bottom.End.Emitters
+    3300266: Right.A.Arm.Bottom.End.H.Emitters
+    3300268: Right.A.Arm.Top 1
+    3300270: Right.A.Arm.Top.Dark
+    3300272: Right.A.Arm.Top.Lights
+    3300274: Right.A.Arm.Top.Pos.Lights
+    3300276: Right.B.Arm.Bottom.End 1
+    3300278: Right.B.Arm.Bottom.End.Dark
+    3300280: Right.B.Arm.Bottom.End.Emitters
+    3300282: Right.B.Arm.Bottom.End.H.Emitters
+    3300284: Right.B.Arm.Top 1
+    3300286: Right.B.Arm.Top.Dark
+    3300288: Right.B.Arm.Top.Lights
+    3300290: Right.B.Arm.Top.Pos.Lights
+    3300292: Right.C.Arm.Bottom.End 1
+    3300294: Right.C.Arm.Bottom.End.Dark
+    3300296: Right.C.Arm.Bottom.End.Emitters
+    3300298: Right.C.Arm.Bottom.End.H.Emitters
+    3300300: Right.C.Arm.Top 1
+    3300302: Right.C.Arm.Top.Dark
+    3300304: Right.C.Arm.Top.Lights
+    3300306: Right.C.Arm.Top.Pos.Lights
+    3300308: Right.D.Arm.Bottom.End 1
+    3300310: Right.D.Arm.Bottom.End.Dark
+    3300312: Right.D.Arm.Bottom.End.Emitters
+    3300314: Right.D.Arm.Bottom.End.H.Emitters
+    3300316: Right.D.Arm.Top 1
+    3300318: Right.D.Arm.Top.Dark
+    3300320: Right.D.Arm.Top.Lights
+    3300322: Right.D.Arm.Top.Pos.Lights
+    3300324: Right.F.Arm.Internal.Attach 1
+    3300326: Right.F.Arm.Internal.Attach.Dark
+    3300328: Right.R.Arm.Internal.Attach 1
+    3300330: Right.R.Arm.Internal.Attach.Dark
+    4300000: Arm.End.Dark01
+    4300002: Arm.End02
+    4300004: Arm.End.Dark02
+    4300006: Arm.End04
+    4300008: Arm.End06
+    4300010: Arm.End.Dark03
+    4300012: Arm.End08
+    4300014: Arm.End.Dark04
+    4300016: Arm.End.Dark05
+    4300018: Arm.End10
+    4300020: Arm.End12
+    4300022: Arm.End.Dark06
+    4300024: Arm.End.Dark07
+    4300026: Arm.End14
+    4300028: Arm.End
+    4300030: Arm.End.Dark
+    4300032: Arm.Bottom.Emitters01
+    4300034: Arm.Bottom.Dark01
+    4300036: Arm.Bottom02
+    4300038: Arm.Bottom.Emitters02
+    4300040: Arm.Bottom.Dark02
+    4300042: Arm.Bottom04
+    4300044: Arm.Bottom.Emitters03
+    4300046: Arm.Bottom.Dark03
+    4300048: Arm.Bottom06
+    4300050: Arm.Bottom.Emitters04
+    4300052: Arm.Bottom.Dark04
+    4300054: Arm.Bottom08
+    4300056: Arm.Bottom.Emitters05
+    4300058: Arm.Bottom.Dark05
+    4300060: Arm.Bottom10
+    4300062: Arm.Bottom.Emitters06
+    4300064: Arm.Bottom.Dark06
+    4300066: Arm.Bottom12
+    4300068: Arm.Bottom.Emitters07
+    4300070: Arm.Bottom.Dark07
+    4300072: Arm.Bottom14
+    4300074: Arm.Bottom.Emitters
+    4300076: Arm.Bottom.Dark
+    4300078: Arm.Bottom
+    4300080: Arm.Top.Building01
+    4300082: Arm.Top.Building.Dark01
+    4300084: Arm.Top.Building.Windows01
+    4300086: Arm.Top.Building03
+    4300088: Arm.Top.Building.Dark02
+    4300090: Arm.Top.Building.Windows02
+    4300092: Arm.Top.Building.Dark03
+    4300094: Arm.Top.Building06
+    4300096: Arm.Top.Building.Windows03
+    4300098: Arm.Top.Building07
+    4300100: Arm.Top.Building.Dark04
+    4300102: Arm.Top.Building.Windows04
+    4300104: Arm.Top.Building.Dark05
+    4300106: Arm.Top.Building10
+    4300108: Arm.Top.Building.Windows05
+    4300110: Arm.Top.Building11
+    4300112: Arm.Top.Building.Dark06
+    4300114: Arm.Top.Building.Windows06
+    4300116: Arm.Top.Building13
+    4300118: Arm.Top.Building.Dark07
+    4300120: Arm.Top.Building.Windows07
+    4300122: Arm.Top.Building.Dark
+    4300124: Arm.Top.Building.Windows
+    4300126: Arm.Top.Building
+    4300128: Chassis.Angle
+    4300130: Chassis.Angle.Dark
+    4300132: Chassis.Angle.Windows
+    4300134: Chassis.Section.Windows
+    4300136: Chassis.Section.Dark
+    4300138: Chassis.Section
+    4300140: Chassis.Section01
+    4300142: Chassis.Section.Windows01
+    4300144: Chassis.Section.Dark01
+    4300146: Chassis.Section03
+    4300148: Chassis.Section.Windows02
+    4300150: Chassis.Section.Dark02
+    4300152: Chassis.Section.Dark03
+    4300154: Chassis.Section05
+    4300156: Chassis.Section.Windows03
+    4300158: Chassis.Angle.Dark01
+    4300160: Chassis.Angle02
+    4300162: Chassis.Angle.Windows01
+    4300164: Chassis.Angle.Dark02
+    4300166: Chassis.Angle.Windows02
+    4300168: Chassis.Angle04
+    4300170: Chassis.Angle.Dark03
+    4300172: Chassis.Angle03
+    4300174: Chassis.Angle.Windows03
+    4300176: Left.A.Arm.Top
+    4300178: Left.A.Arm.Top.Dark
+    4300180: Left.A.Arm.Top.Lights
+    4300182: Left.A.Arm.Top.Pos.Lights
+    4300184: Left.B.Arm.Top
+    4300186: Left.B.Arm.Top.Dark
+    4300188: Left.B.Arm.Top.Lights
+    4300190: Left.B.Arm.Top.Pos.Lights
+    4300192: Left.C.Arm.Top.Lights
+    4300194: Left.C.Arm.Top.Pos.Lights
+    4300196: Left.C.Arm.Top.Dark
+    4300198: Left.C.Arm.Top
+    4300200: Left.D.Arm.Top
+    4300202: Left.D.Arm.Top.Dark
+    4300204: Left.D.Arm.Top.Lights
+    4300206: Left.D.Arm.Top.Pos.Lights
+    4300208: Right.A.Arm.Top
+    4300210: Right.A.Arm.Top.Dark
+    4300212: Right.A.Arm.Top.Lights
+    4300214: Right.A.Arm.Top.Pos.Lights
+    4300216: Right.B.Arm.Top
+    4300218: Right.B.Arm.Top.Dark
+    4300220: Right.B.Arm.Top.Lights
+    4300222: Right.B.Arm.Top.Pos.Lights
+    4300224: Right.C.Arm.Top.Lights
+    4300226: Right.C.Arm.Top
+    4300228: Right.C.Arm.Top.Dark
+    4300230: Right.C.Arm.Top.Pos.Lights
+    4300232: Right.D.Arm.Top.Pos.Lights
+    4300234: Right.D.Arm.Top
+    4300236: Right.D.Arm.Top.Dark
+    4300238: Right.D.Arm.Top.Lights
+    4300240: Left.F.Arm.Internal.Attach.Dark
+    4300242: Left.F.Arm.Internal.Attach
+    4300244: Left.R.Arm.Internal.Attach
+    4300246: Left.R.Arm.Internal.Attach.Dark
+    4300248: Right.F.Arm.Internal.Attach
+    4300250: Right.F.Arm.Internal.Attach.Dark
+    4300252: Right.R.Arm.Internal.Attach
+    4300254: Right.R.Arm.Internal.Attach.Dark
+    4300256: Right.B.Arm.Bottom.End.Emitters
+    4300258: Right.B.Arm.Bottom.End.Dark
+    4300260: Right.B.Arm.Bottom.End
+    4300262: Right.B.Arm.Bottom.End.H.Emitters
+    4300264: Right.A.Arm.Bottom.End.Emitters
+    4300266: Right.A.Arm.Bottom.End.Dark
+    4300268: Right.A.Arm.Bottom.End
+    4300270: Right.A.Arm.Bottom.End.H.Emitters
+    4300272: Left.A.Arm.Bottom.End.Emitters
+    4300274: Left.A.Arm.Bottom.End.Dark
+    4300276: Left.A.Arm.Bottom.End
+    4300278: Left.A.Arm.Bottom.End.H.Emitters
+    4300280: Left.B.Arm.Bottom.End.Emitters
+    4300282: Left.B.Arm.Bottom.End.Dark
+    4300284: Left.B.Arm.Bottom.End
+    4300286: Left.B.Arm.Bottom.End.H.Emitters
+    4300288: Right.C.Arm.Bottom.End.Emitters
+    4300290: Right.C.Arm.Bottom.End.Dark
+    4300292: Right.C.Arm.Bottom.End
+    4300294: Right.C.Arm.Bottom.End.H.Emitters
+    4300296: Left.C.Arm.Bottom.End.Emitters
+    4300298: Left.C.Arm.Bottom.End.Dark
+    4300300: Left.C.Arm.Bottom.End
+    4300302: Left.C.Arm.Bottom.End.H.Emitters
+    4300304: Left.D.Arm.Bottom.End.Emitters
+    4300306: Left.D.Arm.Bottom.End.Dark
+    4300308: Left.D.Arm.Bottom.End
+    4300310: Left.D.Arm.Bottom.End.H.Emitters
+    4300312: Right.D.Arm.Bottom.End.Emitters
+    4300314: Right.D.Arm.Bottom.End.Dark
+    4300316: Right.D.Arm.Bottom.End
+    4300318: Right.D.Arm.Bottom.End.H.Emitters
+    4300320: Connect.Modul.B.Dark
+    4300322: Connect.Modul.B.Windows
+    4300324: Connect.Modul.B
+    4300326: Connect.Modul.B.Light.Detail
+    4300328: Connect.Modul.A
+    4300330: Connect.Modul.A.Dark
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Panels
+    second: {fileID: 2100000, guid: 4e91b21fd2755cf41a6906e075c1d2c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horizontal Emitters
+    second: {fileID: 2100000, guid: 81f282f2613a35846950afdd313996b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Normal Panels
+    second: {fileID: 2100000, guid: d4c90c5f729f91a4897007debed23d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pos Lighting
+    second: {fileID: 2100000, guid: 1f902ddb475affa4fba082261a47b3a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertical Emitters
+    second: {fileID: 2100000, guid: fe4865a89e42ab64c971c0ef800914fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows
+    second: {fileID: 2100000, guid: 3f367633db7c6be4ab4988c4e74c237e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
