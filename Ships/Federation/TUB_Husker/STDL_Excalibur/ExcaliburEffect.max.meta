@@ -11,10 +11,13 @@ ModelImporter:
     400004: //RootNode
     2300000: Exc1_MeshPart0
     2300002: Exc1_MeshPart1
+    2300004: //RootNode
     3300000: Exc1_MeshPart0
     3300002: Exc1_MeshPart1
+    3300004: //RootNode
     4300000: Exc1_MeshPart0
     4300002: Exc1_MeshPart1
+    4300004: Exc1
     9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects:
@@ -74,7 +77,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
