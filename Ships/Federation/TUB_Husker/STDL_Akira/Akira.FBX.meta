@@ -1,54 +1,66 @@
 fileFormatVersion: 2
-guid: 9b04bb4c3f9e3a841a77f95fb8e2c242
+guid: 9f481b33a2089b34c881146c67ac7696
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Effect
-    100004: fgalgr01
-    100006: fgalgr02
-    100008: Light 1
-    100010: Light 2
-    100012: Light 3
-    100014: Light 4
-    100016: Object001
-    400000: //RootNode
-    400002: Effect
-    400004: fgalgr01
-    400006: fgalgr02
-    400008: Light 1
-    400010: Light 2
-    400012: Light 3
-    400014: Light 4
-    400016: Object001
-    2100000: fagmap02
-    2100002: fagmap01
-    2100004: 03 - Default
-    2100006: 01 - Default
-    2300000: Effect
-    2300002: fgalgr01
-    2300004: fgalgr02
-    2300006: Light 1
-    2300008: Light 2
-    2300010: Light 3
-    2300012: Light 4
-    2300014: Object001
-    3300000: Effect
-    3300002: fgalgr01
-    3300004: fgalgr02
-    3300006: Light 1
-    3300008: Light 2
-    3300010: Light 3
-    3300012: Light 4
-    3300014: Object001
-    4300000: fgalgr02
-    4300002: fgalgr01
-    4300004: Object001
-    4300006: Light 1
-    4300008: Light 2
-    4300010: Light 3
-    4300012: Light 4
-    4300014: Effect
+    100000: 1
+    100002: 2
+    100004: 3
+    100006: 4
+    100008: 5
+    100010: //RootNode
+    100012: Effect
+    100014: I1
+    100016: I2
+    100018: I3
+    100020: I4
+    400000: 1
+    400002: 2
+    400004: 3
+    400006: 4
+    400008: 5
+    400010: //RootNode
+    400012: Effect
+    400014: I1
+    400016: I2
+    400018: I3
+    400020: I4
+    2100000: a13_glow
+    2100002: 24 - Default
+    2100004: 18 - Default
+    2100006: 12 - Default
+    2100008: 6 - Default
+    2100010: a19
+    2300000: 1
+    2300002: 2
+    2300004: 3
+    2300006: 4
+    2300008: 5
+    2300010: Effect
+    2300012: I1
+    2300014: I2
+    2300016: I3
+    2300018: I4
+    3300000: 1
+    3300002: 2
+    3300004: 3
+    3300006: 4
+    3300008: 5
+    3300010: Effect
+    3300012: I1
+    3300014: I2
+    3300016: I3
+    3300018: I4
+    4300000: 5
+    4300002: 4
+    4300004: 3
+    4300006: 2
+    4300008: 1
+    4300010: I1
+    4300012: I2
+    4300014: I3
+    4300016: I4
+    4300018: Effect
   externalObjects: {}
   materials:
     importMaterials: 1

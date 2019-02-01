@@ -1,54 +1,60 @@
 fileFormatVersion: 2
-guid: 9b04bb4c3f9e3a841a77f95fb8e2c242
+guid: 14dfbd4f3f407fb4e80ecc3e273d9018
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Effect
-    100004: fgalgr01
-    100006: fgalgr02
-    100008: Light 1
-    100010: Light 2
-    100012: Light 3
-    100014: Light 4
-    100016: Object001
-    400000: //RootNode
-    400002: Effect
-    400004: fgalgr01
-    400006: fgalgr02
-    400008: Light 1
-    400010: Light 2
-    400012: Light 3
-    400014: Light 4
-    400016: Object001
-    2100000: fagmap02
-    2100002: fagmap01
-    2100004: 03 - Default
-    2100006: 01 - Default
-    2300000: Effect
-    2300002: fgalgr01
-    2300004: fgalgr02
-    2300006: Light 1
-    2300008: Light 2
-    2300010: Light 3
-    2300012: Light 4
-    2300014: Object001
-    3300000: Effect
-    3300002: fgalgr01
-    3300004: fgalgr02
-    3300006: Light 1
-    3300008: Light 2
-    3300010: Light 3
-    3300012: Light 4
-    3300014: Object001
-    4300000: fgalgr02
-    4300002: fgalgr01
-    4300004: Object001
-    4300006: Light 1
-    4300008: Light 2
-    4300010: Light 3
-    4300012: Light 4
-    4300014: Effect
+    100000: 005
+    100002: 006
+    100004: 007
+    100006: 008
+    100008: Effect
+    100010: I1
+    100012: I2
+    100014: I3
+    100016: I4
+    100018: //RootNode
+    400000: 005
+    400002: 006
+    400004: 007
+    400006: 008
+    400008: Effect
+    400010: I1
+    400012: I2
+    400014: I3
+    400016: I4
+    400018: //RootNode
+    2100000: sbr_1_3
+    2100002: sbr_1_1
+    2100004: sbr_1_2
+    2100006: 12 - Default
+    2100008: 8 - Default
+    2300000: 005
+    2300002: 006
+    2300004: 007
+    2300006: 008
+    2300008: Effect
+    2300010: I1
+    2300012: I2
+    2300014: I3
+    2300016: I4
+    3300000: 005
+    3300002: 006
+    3300004: 007
+    3300006: 008
+    3300008: Effect
+    3300010: I1
+    3300012: I2
+    3300014: I3
+    3300016: I4
+    4300000: 006
+    4300002: 007
+    4300004: 008
+    4300006: 005
+    4300008: I1
+    4300010: I2
+    4300012: I3
+    4300014: I4
+    4300016: Effect
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -99,7 +105,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
